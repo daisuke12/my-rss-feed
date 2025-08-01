@@ -9,7 +9,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write # この行を追加して書き込み権限を明示的に許可します
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
@@ -26,12 +27,11 @@ jobs:
 
     - name: Run script to generate RSS
       run: python create_kabutan_rss.py
-
+      
     - name: Commit and push if changed
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        # --- 変更点：jsonファイルもコミット対象に追加 ---
         git add kabutan_tdnet.xml processed_links.json
         # 変更があった場合のみコミット・プッシュする
         git diff --staged --quiet || (git commit -m "Update RSS feed and processed links" && git push)
