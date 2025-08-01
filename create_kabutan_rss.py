@@ -9,9 +9,9 @@ import time
 
 # --- 設定項目 ---
 # 巡回する最大のページ数（決算期は多めに設定）
-MAX_PAGES_TO_SCRAPE = 5 
+MAX_PAGES_TO_SCRAPE = 100
 # RSSフィードに含める最大アイテム数
-MAX_ITEMS_IN_RSS = 200 
+MAX_ITEMS_IN_RSS = 2000
 # --- 設定項目ここまで ---
 
 # --- ファイル名定義 ---
