@@ -16,7 +16,7 @@ MAX_ITEMS_IN_RSS = 2000
 
 # --- ファイル名定義 ---
 TARGET_URL_BASE = "https://kabutan.jp/disclosures/"
-OUTPUT_RSS_FILE = "kabutan_feed.xml"
+OUTPUT_RSS_FILE = "kabutan_tdnet.xml"
 STATE_DB_FILE = "processed_links.json" # 確認済みリンクを保存するファイル
 # --- ファイル名定義ここまで ---
 
