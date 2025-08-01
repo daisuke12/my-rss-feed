@@ -1,0 +1,37 @@
+name: Update Kabutan RSS Feed
+
+on:
+  schedule:
+    # 15分ごとに実行（UTC時刻基準）
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # 手動実行も可能にする
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 feedgen lxml pytz
+
+    - name: Run script to generate RSS
+      run: python create_kabutan_rss.py
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        # --- 変更点：jsonファイルもコミット対象に追加 ---
+        git add kabutan_tdnet.xml processed_links.json
+        # 変更があった場合のみコミット・プッシュする
+        git diff --staged --quiet || (git commit -m "Update RSS feed and processed links" && git push)
