@@ -100,9 +100,10 @@ def generate_full_disclosure_rss():
         time.sleep(1) 
 
     # 3. 新しいアイテムが見つからなかった場合は、処理を終了
-    if not new_item_found_flag:
-        print("新しい開示情報はありませんでした。処理を終了します。")
-        return
+    # --- 以下をコメントアウト ---
+# if not new_item_found_flag:
+#     print("新しい開示情報はありませんでした。処理を終了します。")
+#     return
 
     print("新しい開示情報を検出しました。RSSフィードを生成します。")
     
