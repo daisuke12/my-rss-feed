@@ -16,7 +16,7 @@ MAX_ITEMS_IN_RSS = 2000
 
 # --- ファイル名定義 ---
 TARGET_URL_BASE = "https://kabutan.jp/disclosures/"
-OUTPUT_RSS_FILE = "kabutan_feed.xml"
+OUTPUT_RSS_FILE = "kabutan_tdnet.xml"
 STATE_DB_FILE = "processed_links.json" # 確認済みリンクを保存するファイル
 # --- ファイル名定義ここまで ---
 
@@ -73,7 +73,17 @@ def generate_full_disclosure_rss():
                 title_tag = cells[4].find('a')
                 if not title_tag:
                     continue
+                    
+                # まず、判定に使うためのタイトルテキストを取得します
+                title_text_for_check = title_tag.get_text(strip=True)
 
+                # 除外したいキーワードのリストを定義します
+                exclude_keywords = ["Report", "Results", "Summary", "Notice", "Presentation", "Announcement"]
+                
+                # タイトルに除外キーワードのいずれかが含まれているかチェックします
+                if any(keyword in title_text_for_check for keyword in exclude_keywords):
+                    continue # 含まれていたら、この開示情報の処理をスキップして次の行に進みます
+                    
                 link = title_tag.get('href', '')
                 if link.startswith('/'):
                     link = "https://kabutan.jp" + link
