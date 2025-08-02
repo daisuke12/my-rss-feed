@@ -10,7 +10,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # この行を追加して書き込み権限を明示的に許可します
+      contents: write # 書き込み権限を許可
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
@@ -29,9 +30,30 @@ jobs:
       run: python create_kabutan_rss.py
       
     - name: Commit and push if changed
+      # ★変更点1：このステップにIDを追加し、コミットの有無を出力するロジックに変更
+      id: commit 
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add kabutan_tdnet.xml processed_links.json
         # 変更があった場合のみコミット・プッシュする
-        git diff --staged --quiet || (git commit -m "Update RSS feed and processed links" && git push)
+        # コミットが発生したかどうかを後続のステップで判定できるように出力を設定
+        if git diff --staged --quiet; then
+          echo "No changes to commit."
+          echo "committed=false" >> $GITHUB_OUTPUT
+        else
+          git commit -m "Update RSS feed and processed links"
+          git push
+          echo "Committed and pushed changes."
+          echo "committed=true" >> $GITHUB_OUTPUT
+        fi
+        
+    # ★変更点2：PuSHハブに通知を送るステップを丸ごと追加
+    - name: Ping PubSubHubbub Hub
+      # 上のステップでコミットが発生した場合（committed=true）のみ実行
+      if: steps.commit.outputs.committed == 'true'
+      run: |
+        echo "Pinging PubSubHubbub hub..."
+        curl -X POST "https://pubsubhubbub.appspot.com/" \
+        -d "hub.mode=publish" \
+        -d "hub.url=https://daisuke12.github.io/my-rss-feed/kabutan_tdnet.xml"
