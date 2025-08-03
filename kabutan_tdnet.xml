@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 03 Aug 2025 23:19:58 +0000</lastBuildDate>
-    <item>
-      <title>【キングジム (7962)】2025年６月期決算短信〔日本基準〕(連結)</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250731/140120250730524541/</link>
-      <description>適時開示：2025年６月期決算短信〔日本基準〕(連結)</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250731/140120250730524541/</guid>
-      <pubDate>Thu, 31 Jul 2025 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【キングジム (7962)】役員人事に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250731/140120250731525933/</link>
-      <description>適時開示：役員人事に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250731/140120250731525933/</guid>
-      <pubDate>Thu, 31 Jul 2025 16:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Aug 2025 23:44:34 +0000</lastBuildDate>
     <item>
       <title>【キングジム (7962)】当社株式の大量取得行為に関する対応方針（買収への対応方針）の更新について</title>
       <link>https://kabutan.jp/disclosures/pdf/20250731/140120250731525944/</link>
@@ -4781,6 +4767,27 @@
       <description>適時開示：ドイツ生命保険持株会社ヴィリディウムの持分取得完了のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250804/140120250801528142/</guid>
       <pubDate>Mon, 04 Aug 2025 08:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【トリプルアイ (5026)】トリプルアイズが顔認証AIで精度向上を実現 AIZE「model_6」は低品質画像にも対応</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250804/140120250803528244/</link>
+      <description>適時開示：トリプルアイズが顔認証AIで精度向上を実現 AIZE「model_6」は低品質画像にも対応</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250804/140120250803528244/</guid>
+      <pubDate>Mon, 04 Aug 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＷＴ金 (1672)】上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250804/140120250804528253/</link>
+      <description>適時開示：上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250804/140120250804528253/</guid>
+      <pubDate>Mon, 04 Aug 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＷＴ金 (1672)】上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250804/140120250804528254/</link>
+      <description>適時開示：上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250804/140120250804528254/</guid>
+      <pubDate>Mon, 04 Aug 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
