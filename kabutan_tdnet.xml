@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 04 Aug 2025 23:45:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 23:55:52 +0000</lastBuildDate>
     <item>
       <title>【東亜道 (1882)】東亜道路工業と出光興産、相互でポリマー改質アスファルトの製造委託を開始</title>
       <link>https://kabutan.jp/disclosures/pdf/20250801/140120250728521920/</link>
@@ -399,20 +399,6 @@
       <description>適時開示：特別利益及び特別損失の計上に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250801/140120250801527359/</guid>
       <pubDate>Fri, 01 Aug 2025 15:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【セキド (9878)】2026年３月期 第１四半期決算短信〔日本基準〕（非連結）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250801/140120250801527409/</link>
-      <description>適時開示：2026年３月期 第１四半期決算短信〔日本基準〕（非連結）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250801/140120250801527409/</guid>
-      <pubDate>Fri, 01 Aug 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【銀座ルノア (9853)】2026年３月期 第１四半期決算短信〔日本基準〕(連結)</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250801/140120250801527674/</link>
-      <description>適時開示：2026年３月期 第１四半期決算短信〔日本基準〕(連結)</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250801/140120250801527674/</guid>
-      <pubDate>Fri, 01 Aug 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
       <title>【セキド (9878)】2026年３月期 第１四半期決算短信〔日本基準〕（非連結）</title>
@@ -4284,6 +4270,20 @@
       <description>適時開示：メールチェックサービス「Mail Validator」がCSV連携可能に</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250805/140120250729522511/</guid>
       <pubDate>Tue, 05 Aug 2025 08:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【オリックス (8591)】オリックス株式会社の子会社（OPI・18株式会社）によるアセンテック株式会社に対する公開買付けの結果について</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250805/140120250731525066/</link>
+      <description>適時開示：オリックス株式会社の子会社（OPI・18株式会社）によるアセンテック株式会社に対する公開買付けの結果について</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250805/140120250731525066/</guid>
+      <pubDate>Tue, 05 Aug 2025 08:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【アセンテック (3565)】OPI・18 株式会社による当社株式に対する公開買付けの結果に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250805/140120250804529143/</link>
+      <description>適時開示：OPI・18 株式会社による当社株式に対する公開買付けの結果に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250805/140120250804529143/</guid>
+      <pubDate>Tue, 05 Aug 2025 08:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
