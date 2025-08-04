@@ -78,7 +78,7 @@ def generate_full_disclosure_rss():
                 title_text_for_check = title_tag.get_text(strip=True)
 
                 # 除外したいキーワードのリストを定義します
-                exclude_keywords = ["Report", "Results", "Summary", "Notice", "Presentation", "Announcement", "自己株式", "ガバナンス", "Share", "Notification", "Status", "訂正", "払込", "経過", "Status", "人事異動", "results", "行使状況", "Regarding", "of", "for", "the", "ETF", "招集ご通知", "株主総会資料", "REIT"]
+                exclude_keywords = ["Report", "Results", "Summary", "Notice", "Presentation", "Announcement", "自己株式", "ガバナンス", "Share", "Notification", "Status", "訂正", "払込", "経過", "Status", "人事異動", "results", "行使状況", "Regarding", "of", "for", "the", "ETF", "招集ご通知", "株主総会資料", "REIT", "独立役員届出書", "発行内容確定", "定款", "ＥＴＦ", "ＥＴＮ", "ETN", "日々の開示", "認証取得"]
                 
                 # タイトルに除外キーワードのいずれかが含まれているかチェックします
                 if any(keyword in title_text_for_check for keyword in exclude_keywords):
