@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 12 Aug 2025 23:35:20 +0000</lastBuildDate>
-    <item>
-      <title>【ＤＭソリュ (6549)】配当方針の変更（中間配当の実施）及び配当予想の修正（増配）に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250808/140120250808537112/</link>
-      <description>適時開示：配当方針の変更（中間配当の実施）及び配当予想の修正（増配）に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250808/140120250808537112/</guid>
-      <pubDate>Fri, 08 Aug 2025 16:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Aug 2025 23:52:09 +0000</lastBuildDate>
     <item>
       <title>【ＴＶＥ (6466)】2025年９月期　第３四半期決算短信[日本基準]（連結）</title>
       <link>https://kabutan.jp/disclosures/pdf/20250808/140120250807534563/</link>
@@ -6370,6 +6363,13 @@
       <description>適時開示：当社連結子会社における株式会社JTBとの医療インバウンドに関する業務提携のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250813/140120250813540048/</guid>
       <pubDate>Wed, 13 Aug 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ロボペイ (4374)】請求・債権管理のDXを推進する「請求管理ロボ」を経由した請求金額の累計が3兆円を突破</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250813/140120250812539639/</link>
+      <description>適時開示：請求・債権管理のDXを推進する「請求管理ロボ」を経由した請求金額の累計が3兆円を突破</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250813/140120250812539639/</guid>
+      <pubDate>Wed, 13 Aug 2025 08:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
