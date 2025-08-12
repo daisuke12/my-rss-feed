@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 12 Aug 2025 15:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 15:46:16 +0000</lastBuildDate>
     <item>
       <title>【ユビテック (6662)】会計監査人の異動について</title>
       <link>https://kabutan.jp/disclosures/pdf/20250808/140120250808537635/</link>
@@ -6363,6 +6363,13 @@
       <description>適時開示：配当予想の修正（無配）及び株主優待制度の廃止に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250812/140120250812539828/</guid>
       <pubDate>Tue, 12 Aug 2025 20:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【第四北越ＦＧ (7327)】統合報告書 2025 DAISHI HOKUETSU INTEGRATED REPORT</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250813/140120250812539359/</link>
+      <description>適時開示：統合報告書 2025 DAISHI HOKUETSU INTEGRATED REPORT</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250813/140120250812539359/</guid>
+      <pubDate>Wed, 13 Aug 2025 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
