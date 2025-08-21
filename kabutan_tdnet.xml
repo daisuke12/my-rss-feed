@@ -7,77 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 Aug 2025 02:49:00 +0000</lastBuildDate>
-    <item>
-      <title>【日本オーエー (5241)】配当予想の修正に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250814/140120250813541223/</link>
-      <description>適時開示：配当予想の修正に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250814/140120250813541223/</guid>
-      <pubDate>Thu, 14 Aug 2025 16:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ＩＩＦ (6545)】2026年３月期　第１四半期決算短信〔日本基準〕（連結）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250814/140120250807534719/</link>
-      <description>適時開示：2026年３月期　第１四半期決算短信〔日本基準〕（連結）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250814/140120250807534719/</guid>
-      <pubDate>Thu, 14 Aug 2025 16:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ＩＩＦ (6545)】2026年３月期第１四半期決算補足説明資料</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250814/140120250807534761/</link>
-      <description>適時開示：2026年３月期第１四半期決算補足説明資料</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250814/140120250807534761/</guid>
-      <pubDate>Thu, 14 Aug 2025 16:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【みのや (386A)】2025年６月期決算短信〔日本基準〕(非連結)</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250814/140120250813540151/</link>
-      <description>適時開示：2025年６月期決算短信〔日本基準〕(非連結)</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250814/140120250813540151/</guid>
-      <pubDate>Thu, 14 Aug 2025 16:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【 (9167)】固定資産売却損益及び固定資産除却損の発生に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250814/140120250814542088/</link>
-      <description>適時開示：固定資産売却損益及び固定資産除却損の発生に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250814/140120250814542088/</guid>
-      <pubDate>Thu, 14 Aug 2025 17:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ブシロード (7803)】主要株主及び親会社以外の支配株主の異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250814/140120250814542643/</link>
-      <description>適時開示：主要株主及び親会社以外の支配株主の異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250814/140120250814542643/</guid>
-      <pubDate>Thu, 14 Aug 2025 17:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【バルコス (7790)】2025年12月期　第２四半期決算短信〔日本基準〕（連結）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250814/140120250814542522/</link>
-      <description>適時開示：2025年12月期　第２四半期決算短信〔日本基準〕（連結）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250814/140120250814542522/</guid>
-      <pubDate>Thu, 14 Aug 2025 17:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【バルコス (7790)】借入金の返済に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250814/140120250814542654/</link>
-      <description>適時開示：借入金の返済に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250814/140120250814542654/</guid>
-      <pubDate>Thu, 14 Aug 2025 17:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【 (7691)】2026年３月期　第１四半期決算短信〔日本基準〕（連結）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250814/140120250814542453/</link>
-      <description>適時開示：2026年３月期　第１四半期決算短信〔日本基準〕（連結）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250814/140120250814542453/</guid>
-      <pubDate>Thu, 14 Aug 2025 17:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ネットプロ (7383)】[本編書き起こし]2026年３月期 第１四半期決算説明会</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250814/140120250814541877/</link>
-      <description>適時開示：[本編書き起こし]2026年３月期 第１四半期決算説明会</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250814/140120250814541877/</guid>
-      <pubDate>Thu, 14 Aug 2025 17:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Aug 2025 03:40:19 +0000</lastBuildDate>
     <item>
       <title>【芝浦電子 (6957)】(変更)2025年5月1日付「ミネベアミツミ株式会社による当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250814/140120250814542599/</link>
@@ -5922,6 +5852,62 @@
       <description>適時開示：資金調達に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250821/140120250821545099/</guid>
       <pubDate>Thu, 21 Aug 2025 11:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ヘッドウォ (4011)】株式会社LogTechの株式取得（連結子会社化）に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250821/140120250818543824/</link>
+      <description>適時開示：株式会社LogTechの株式取得（連結子会社化）に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250821/140120250818543824/</guid>
+      <pubDate>Thu, 21 Aug 2025 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ヘッドウォ (4011)】株式会社LogTechの株式取得（連結子会社化）に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250821/140120250821545043/</link>
+      <description>適時開示：株式会社LogTechの株式取得（連結子会社化）に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250821/140120250821545043/</guid>
+      <pubDate>Thu, 21 Aug 2025 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＲＳテクノ (3445)】「日経・東証IRフェア2025」 出展のお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250821/140120250821545166/</link>
+      <description>適時開示：「日経・東証IRフェア2025」 出展のお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250821/140120250821545166/</guid>
+      <pubDate>Thu, 21 Aug 2025 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【グリムス (3150)】[Delayed] Supplementary Material Q1 FY 03/2026</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250821/140120250821545229/</link>
+      <description>適時開示：[Delayed] Supplementary Material Q1 FY 03/2026</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250821/140120250821545229/</guid>
+      <pubDate>Thu, 21 Aug 2025 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【トランスＧＧ (2342)】「エクソンヒト化マウス」に関する特許が欧州にて成立</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250821/140120250821545301/</link>
+      <description>適時開示：「エクソンヒト化マウス」に関する特許が欧州にて成立</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250821/140120250821545301/</guid>
+      <pubDate>Thu, 21 Aug 2025 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【バリューＣ (9238)】「カルチャー変革推進委員会 powered by Unipos」主催イベント「企業カルチャーを浴びる夏」に賛同いたしました</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250821/140120250821545232/</link>
+      <description>適時開示：「カルチャー変革推進委員会 powered by Unipos」主催イベント「企業カルチャーを浴びる夏」に賛同いたしました</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250821/140120250821545232/</guid>
+      <pubDate>Thu, 21 Aug 2025 12:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ヒトコムＨＤ (4433)】【ヒトコム】アフター万博を見据えスタッフのキャリア形成支援プログラムを開始</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250821/140120250821545307/</link>
+      <description>適時開示：【ヒトコム】アフター万博を見据えスタッフのキャリア形成支援プログラムを開始</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250821/140120250821545307/</guid>
+      <pubDate>Thu, 21 Aug 2025 12:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ダイナマップ (336A)】(お知らせ) ダイナミックマッププラットフォーム、「第31回ITS世界会議2025アトランタ」に初出展へ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250821/140120250821545238/</link>
+      <description>適時開示：(お知らせ) ダイナミックマッププラットフォーム、「第31回ITS世界会議2025アトランタ」に初出展へ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250821/140120250821545238/</guid>
+      <pubDate>Thu, 21 Aug 2025 12:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
