@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 22 Aug 2025 08:48:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 08:59:34 +0000</lastBuildDate>
     <item>
       <title>【ＪＢＳ (5036)】「株式付与ＥＳＯＰ信託」の導入に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250818/140120250818543553/</link>
@@ -5665,13 +5665,6 @@
       <pubDate>Fri, 22 Aug 2025 16:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日興新興国債 (1566)】2025年7月期（2025年1月11日～2025年7月10日）決算短信</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250822/140120250822546051/</link>
-      <description>適時開示：2025年7月期（2025年1月11日～2025年7月10日）決算短信</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250822/140120250822546051/</guid>
-      <pubDate>Fri, 22 Aug 2025 16:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【日興Ａリート (1555)】2025年7月期（2025年1月11日～2025年7月10日）決算短信</title>
       <link>https://kabutan.jp/disclosures/pdf/20250822/140120250822546045/</link>
       <description>適時開示：2025年7月期（2025年1月11日～2025年7月10日）決算短信</description>
@@ -5943,6 +5936,13 @@
       <description>適時開示：募集新株予約権（業績連動型新株予約権）の発行に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250822/140120250822546219/</guid>
       <pubDate>Fri, 22 Aug 2025 17:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ｅＷｅＬＬ (5038)】2025年12月期 第２四半期決算説明会 書き起こし記事および動画公開のお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250822/140120250822546304/</link>
+      <description>適時開示：2025年12月期 第２四半期決算説明会 書き起こし記事および動画公開のお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250822/140120250822546304/</guid>
+      <pubDate>Fri, 22 Aug 2025 17:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
