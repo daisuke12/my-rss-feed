@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 26 Aug 2025 04:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 04:49:05 +0000</lastBuildDate>
     <item>
       <title>【ナレルＧ (9163)】2025年７月度　ＫＰＩのお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250820/140120250820544522/</link>
@@ -3005,13 +3005,6 @@
       <pubDate>Fri, 22 Aug 2025 15:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【 (9335)】確定拠出年金制度の導入に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250822/140120250820544929/</link>
-      <description>適時開示：確定拠出年金制度の導入に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250822/140120250820544929/</guid>
-      <pubDate>Fri, 22 Aug 2025 15:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【ヤガミ (7488)】2026年４月期 第１四半期決算短信[日本基準](連結)</title>
       <link>https://kabutan.jp/disclosures/pdf/20250822/140120250821545525/</link>
       <description>適時開示：2026年４月期 第１四半期決算短信[日本基準](連結)</description>
@@ -3163,13 +3156,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20250822/140120250822546099/</link>
       <description>適時開示：卒業・卒園アルバム制作のDX化を推進する「MCLOUD」β版を50校限定で案内開始</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250822/140120250822546099/</guid>
-      <pubDate>Fri, 22 Aug 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【エイベックス (7860)】子会社の役員の異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250822/140120250820545000/</link>
-      <description>適時開示：子会社の役員の異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250822/140120250820545000/</guid>
       <pubDate>Fri, 22 Aug 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -5922,6 +5908,13 @@
       <description>適時開示：AWS主催「“ビジネスをグロースする”生成AIコンテスト」で「Scalable Innovation Award」受賞のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250826/140120250826547414/</guid>
       <pubDate>Tue, 26 Aug 2025 13:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【チムニー (3178)】株主優待券電子化にともなう、申込サイトからの申込締切日の延長に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250826/140120250826547422/</link>
+      <description>適時開示：株主優待券電子化にともなう、申込サイトからの申込締切日の延長に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250826/140120250826547422/</guid>
+      <pubDate>Tue, 26 Aug 2025 13:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
