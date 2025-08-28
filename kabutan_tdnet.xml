@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 28 Aug 2025 09:52:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 10:19:01 +0000</lastBuildDate>
     <item>
       <title>【ＦフォースＧ (7068)】支配株主等に関する事項について</title>
       <link>https://kabutan.jp/disclosures/pdf/20250825/140120250825546786/</link>
@@ -5936,6 +5936,13 @@
       <description>適時開示：執行役員人事に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250828/140120250828549061/</guid>
       <pubDate>Thu, 28 Aug 2025 18:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ネクスＧ (6634)】連結子会社に係る仮処分決定の認可に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250828/140120250828549283/</link>
+      <description>適時開示：連結子会社に係る仮処分決定の認可に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250828/140120250828549283/</guid>
+      <pubDate>Thu, 28 Aug 2025 19:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
