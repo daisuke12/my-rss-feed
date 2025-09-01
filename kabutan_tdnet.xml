@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Sep 2025 09:54:07 +0000</lastBuildDate>
-    <item>
-      <title>【ＱＬＳＨＤ (7075)】株主優待制度変更（中間優待新設、継続保有期間要件の変更）のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250829/140120250829549468/</link>
-      <description>適時開示：株主優待制度変更（中間優待新設、継続保有期間要件の変更）のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250829/140120250829549468/</guid>
-      <pubDate>Fri, 29 Aug 2025 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 10:20:30 +0000</lastBuildDate>
     <item>
       <title>【ＱＬＳＨＤ (7075)】株主優待内容変更（デジタルギフト）のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250829/140120250829549474/</link>
@@ -4844,6 +4837,13 @@
       <description>適時開示：シャディ株式会社、甘納豆専門店の銀座鈴屋の事業全体を承継</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250901/140120250901551454/</guid>
       <pubDate>Mon, 01 Sep 2025 18:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【スズキ (7269)】連結子会社からの配当金受領に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250901/140120250901551535/</link>
+      <description>適時開示：連結子会社からの配当金受領に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250901/140120250901551535/</guid>
+      <pubDate>Mon, 01 Sep 2025 19:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
