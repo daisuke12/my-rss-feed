@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 08 Sep 2025 23:42:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 23:52:31 +0000</lastBuildDate>
     <item>
       <title>【イノテック (9880)】Intel Atom Amston Lake プロセッサー搭載の最新小型CPUボードをリリース！</title>
       <link>https://kabutan.jp/disclosures/pdf/20250903/140120250903552774/</link>
@@ -4846,13 +4846,6 @@
       <pubDate>Mon, 08 Sep 2025 17:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【コンヴァノ (6574)】事業計画及び成長可能性に関する事項</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250908/140120250908554760/</link>
-      <description>適時開示：事業計画及び成長可能性に関する事項</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250908/140120250908554760/</guid>
-      <pubDate>Mon, 08 Sep 2025 17:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【アクシージア (4936)】業績予想の修正に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250908/140120250908554358/</link>
       <description>適時開示：業績予想の修正に関するお知らせ</description>
@@ -4949,6 +4942,13 @@
       <description>適時開示：臨時株主総会の招集に際しての電子提供措置事項</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250909/140120250908554370/</guid>
       <pubDate>Tue, 09 Sep 2025 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ジオコード (7357)】ジオコード、AI最適化サービス強化に向けSEO・Web開発部門を再編、部長に取締役・坂従が就任</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250909/140120250905554078/</link>
+      <description>適時開示：ジオコード、AI最適化サービス強化に向けSEO・Web開発部門を再編、部長に取締役・坂従が就任</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250909/140120250905554078/</guid>
+      <pubDate>Tue, 09 Sep 2025 08:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
