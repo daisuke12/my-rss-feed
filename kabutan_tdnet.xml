@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Sep 2025 23:30:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 23:40:47 +0000</lastBuildDate>
     <item>
       <title>【ａｂｃ (8783)】上場株式の売却による特別利益の計上に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250908/140120250906553720/</link>
@@ -1260,13 +1260,6 @@
       <description>適時開示：＜ヤシマキザイの株主優待品＞鉄道ひろばクーポンのご紹介</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250908/140120250908554761/</guid>
       <pubDate>Mon, 08 Sep 2025 17:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【トヨクモ (4058)】過去最大89万人超が参加、トヨクモ「安否確認サービス2」が全国一斉訓練2025を実施</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250908/140120250908554762/</link>
-      <description>適時開示：過去最大89万人超が参加、トヨクモ「安否確認サービス2」が全国一斉訓練2025を実施</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250908/140120250908554762/</guid>
-      <pubDate>Mon, 08 Sep 2025 18:00:00 +0900</pubDate>
     </item>
     <item>
       <title>【トヨクモ (4058)】過去最大89万人超が参加、トヨクモ「安否確認サービス2」が全国一斉訓練2025を実施</title>
@@ -6349,6 +6342,20 @@
       <description>適時開示：2025年7月期 通期 決算説明資料（事業計画及び成長可能性に関する事項）の追加資料について</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250911556904/</guid>
       <pubDate>Fri, 12 Sep 2025 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【エクサＷｉｚ (4259)】商工組合中央金庫、「exaBase ロープレ」を導入</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250911556892/</link>
+      <description>適時開示：商工組合中央金庫、「exaBase ロープレ」を導入</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250911556892/</guid>
+      <pubDate>Fri, 12 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【エクサＷｉｚ (4259)】Shoko Chukin Bank adopts “exaBase Role Playing”</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250911556893/</link>
+      <description>適時開示：Shoko Chukin Bank adopts “exaBase Role Playing”</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250911556893/</guid>
+      <pubDate>Fri, 12 Sep 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
