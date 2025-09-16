@@ -1,83 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>株探 - 適時開示情報 (全件監視用)</title>
+    <title>株探 - 適時開示情報</title>
     <link>https://kabutan.jp/disclosures/</link>
-    <description>株探の適時開示情報を複数ページ巡回して生成されたRSSフィードです。</description>
+    <description>株探の適時開示情報から特定キーワードを除外したRSSフィードです。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Sep 2025 08:23:54 +0000</lastBuildDate>
-    <item>
-      <title>【のむら産業 (7131)】配当予想の修正に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250911/140120250911556221/</link>
-      <description>適時開示：配当予想の修正に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250911556221/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【のむら産業 (7131)】2025年10月期 第３四半期 決算説明資料</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250911/140120250911556229/</link>
-      <description>適時開示：2025年10月期 第３四半期 決算説明資料</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250911556229/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ハルメク (7119)】「ハルメク おみせ」新規出店に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250911/140120250911556573/</link>
-      <description>適時開示：「ハルメク おみせ」新規出店に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250911556573/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【マクビープラ (7095)】2026年４月期第１四半期決算短信〔ＩＦＲＳ〕(連結)</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250911/140120250909555378/</link>
-      <description>適時開示：2026年４月期第１四半期決算短信〔ＩＦＲＳ〕(連結)</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250909555378/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【マクビープラ (7095)】2026年４月期第１四半期決算説明資料</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250911/140120250911556364/</link>
-      <description>適時開示：2026年４月期第１四半期決算説明資料</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250911556364/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ピアズ (7066)】AIロールプレイトレーニングシステム「mimik」が、福山大学薬学部の教育研究に採用</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250911/140120250911556215/</link>
-      <description>適時開示：AIロールプレイトレーニングシステム「mimik」が、福山大学薬学部の教育研究に採用</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250911556215/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【識学 (7049)】識学 安藤が製造業のM&amp;AをテーマにYouTubeチャンネル『M&amp;A BANK』へ出演</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250911/140120250911556567/</link>
-      <description>適時開示：識学 安藤が製造業のM&amp;AをテーマにYouTubeチャンネル『M&amp;A BANK』へ出演</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250911556567/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【アルチザ (6778)】2025年７月期 決算短信〔日本基準〕（連結）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250911/140120250910555450/</link>
-      <description>適時開示：2025年７月期 決算短信〔日本基準〕（連結）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250910555450/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【アルチザ (6778)】通期業績予想と実績値の差異に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250911/140120250910555521/</link>
-      <description>適時開示：通期業績予想と実績値の差異に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250910555521/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ＯＳＧコーポ (6757)】2026年１月期　第２四半期（中間期）決算短信〔日本基準〕（連結）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250911/140120250910556007/</link>
-      <description>適時開示：2026年１月期　第２四半期（中間期）決算短信〔日本基準〕（連結）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250910556007/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 08:48:13 +0000</lastBuildDate>
     <item>
       <title>【ＯＳＧコーポ (6757)】2026年１月期第２四半期(中間期) 業績予想値と実績値との差異に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250911/140120250910556018/</link>
@@ -594,13 +524,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20250911/140120250911556419/</link>
       <description>適時開示：2025年10月期 第３四半期決算短信〔ＩＦＲＳ〕（連結）</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250911556419/</guid>
-      <pubDate>Thu, 11 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【菱地所物流Ｒ (3481)】資金の借入れ（グリーンローン）に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250911/140120250911556308/</link>
-      <description>適時開示：資金の借入れ（グリーンローン）に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250911556308/</guid>
       <pubDate>Thu, 11 Sep 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -1133,20 +1056,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20250911/140120250911556413/</link>
       <description>適時開示：2026年４月期第１四半期決算説明動画を公開しました</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250911556413/</guid>
-      <pubDate>Thu, 11 Sep 2025 18:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ＡＰＩ (3279)】資金の借入れ（金利決定）に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250911/140120250910555981/</link>
-      <description>適時開示：資金の借入れ（金利決定）に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250910555981/</guid>
-      <pubDate>Thu, 11 Sep 2025 18:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ＡＰＩ (3279)】金利スワップ契約締結に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250911/140120250910555983/</link>
-      <description>適時開示：金利スワップ契約締結に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250911/140120250910555983/</guid>
       <pubDate>Thu, 11 Sep 2025 18:00:00 +0900</pubDate>
     </item>
     <item>
@@ -2088,20 +1997,6 @@
       <pubDate>Fri, 12 Sep 2025 15:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【エスコンＪＰ (2971)】2025年7月期 決算説明資料</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557075/</link>
-      <description>適時開示：2025年7月期 決算説明資料</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557075/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【エスコンＪＰ (2971)】役員選任に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557080/</link>
-      <description>適時開示：役員選任に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557080/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【 (267A)】2025年７月期決算短信〔日本基準〕(連結)</title>
       <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557392/</link>
       <description>適時開示：2025年７月期決算短信〔日本基準〕(連結)</description>
@@ -2372,13 +2267,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557573/</link>
       <description>適時開示：2026年１月期 第２四半期（中間期）決算短信〔日本基準〕（連結）</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557573/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本ロジ (8967)】自己の投資口の取得及び消却に係る事項の決定に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557360/</link>
-      <description>適時開示：自己の投資口の取得及び消却に係る事項の決定に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557360/</guid>
       <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -3292,41 +3180,6 @@
       <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>【スターアジア (3468)】2026年1月期の運用状況及び分配金の予想の修正に関するお知らせ（上方修正）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557123/</link>
-      <description>適時開示：2026年1月期の運用状況及び分配金の予想の修正に関するお知らせ（上方修正）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557123/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【スターアジア (3468)】国内不動産信託受益権の取得、貸借及びメザニンローン債権への投資の決定並びに国内不動産信託受益権の譲渡（第12回資産入替）に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557162/</link>
-      <description>適時開示：国内不動産信託受益権の取得、貸借及びメザニンローン債権への投資の決定並びに国内不動産信託受益権の譲渡（第12回資産入替）に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557162/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【スターアジア (3468)】資金の借入れに関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557175/</link>
-      <description>適時開示：資金の借入れに関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557175/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【スターアジア (3468)】規約一部変更及び役員選任に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557180/</link>
-      <description>適時開示：規約一部変更及び役員選任に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557180/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【スターアジア (3468)】特定関係法人の異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557191/</link>
-      <description>適時開示：特定関係法人の異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557191/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【ビーロット (3452)】取締役会の実効性評価の結果の概要に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250912/140120250911556881/</link>
       <description>適時開示：取締役会の実効性評価の結果の概要に関するお知らせ</description>
@@ -3380,62 +3233,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557308/</link>
       <description>適時開示：2026年1月期 第2四半期 決算説明会資料</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557308/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【産業ファンド (3249)】資金の借入（金利決定）に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557381/</link>
-      <description>適時開示：資金の借入（金利決定）に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557381/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【森ヒルズＲ (3234)】2025年7月期　決算短信（ＲＥＩＴ）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250911556652/</link>
-      <description>適時開示：2025年7月期　決算短信（ＲＥＩＴ）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250911556652/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【森ヒルズＲ (3234)】FINANCIAL REPORT FOR THE THIRTY-EIGHTH FISCAL PERIOD ENDED JULY 31, 2025</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250911556674/</link>
-      <description>適時開示：FINANCIAL REPORT FOR THE THIRTY-EIGHTH FISCAL PERIOD ENDED JULY 31, 2025</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250911556674/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【森ヒルズＲ (3234)】第38期（2025年7月期）決算説明資料</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557438/</link>
-      <description>適時開示：第38期（2025年7月期）決算説明資料</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557438/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【森ヒルズＲ (3234)】国内不動産信託受益権の取得に関するお知らせ（虎ノ門ヒルズ 森タワー：追加取得）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557450/</link>
-      <description>適時開示：国内不動産信託受益権の取得に関するお知らせ（虎ノ門ヒルズ 森タワー：追加取得）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557450/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【森ヒルズＲ (3234)】利害関係人等（森ビル株式会社）との取引に関するお知らせ（アーク森ビル、六本木ヒルズ森タワー）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557467/</link>
-      <description>適時開示：利害関係人等（森ビル株式会社）との取引に関するお知らせ（アーク森ビル、六本木ヒルズ森タワー）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557467/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【森ヒルズＲ (3234)】MHR Announces Transaction with a Related Party (Mori Building Co., Ltd.) (ARK Mori Building and Roppongi Hills Mori Tower)</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557468/</link>
-      <description>適時開示：MHR Announces Transaction with a Related Party (Mori Building Co., Ltd.) (ARK Mori Building and Roppongi Hills Mori Tower)</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557468/</guid>
-      <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【森ヒルズＲ (3234)】利害関係人等（森ビル流通システム株式会社）との取引に関するお知らせ（ラフォーレ原宿（底地））</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557488/</link>
-      <description>適時開示：利害関係人等（森ビル流通システム株式会社）との取引に関するお知らせ（ラフォーレ原宿（底地））</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557488/</guid>
       <pubDate>Fri, 12 Sep 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -4279,20 +4076,6 @@
       <pubDate>Fri, 12 Sep 2025 16:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【ヘルスケアＭ (3455)】2025年7月期　決算短信（ＲＥＩＴ）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250911556483/</link>
-      <description>適時開示：2025年7月期　決算短信（ＲＥＩＴ）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250911556483/</guid>
-      <pubDate>Fri, 12 Sep 2025 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ヘルスケアＭ (3455)】2025年7月期（第21期）決算説明資料</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557151/</link>
-      <description>適時開示：2025年7月期（第21期）決算説明資料</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557151/</guid>
-      <pubDate>Fri, 12 Sep 2025 16:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【山岡家 (3399)】2026年１月期　第２四半期（中間期）決算短信〔日本基準〕(非連結)</title>
       <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557511/</link>
       <description>適時開示：2026年１月期　第２四半期（中間期）決算短信〔日本基準〕(非連結)</description>
@@ -4822,13 +4605,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912556958/</link>
       <description>適時開示：株式の立会外分売に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912556958/</guid>
-      <pubDate>Fri, 12 Sep 2025 17:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【アドバンスＲ (3269)】資金の借入れ及び借入金の返済に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250912/140120250912557585/</link>
-      <description>適時開示：資金の借入れ及び借入金の返済に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250912/140120250912557585/</guid>
       <pubDate>Fri, 12 Sep 2025 17:30:00 +0900</pubDate>
     </item>
     <item>
@@ -5609,48 +5385,6 @@
       <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>【いちごオフィ (8975)】資金の借入のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558102/</link>
-      <description>適時開示：資金の借入のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558102/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【いちごオフィ (8975)】New Loans</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558282/</link>
-      <description>適時開示：New Loans</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558282/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【グロバワン (8958)】2025年９月期及び2026年３月期分配予想の修正に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558009/</link>
-      <description>適時開示：2025年９月期及び2026年３月期分配予想の修正に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558009/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【グロバワン (8958)】資産運用会社による投資口追加取得の状況及び取得終了に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558069/</link>
-      <description>適時開示：資産運用会社による投資口追加取得の状況及び取得終了に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558069/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【グロバワン (8958)】自己投資口の取得状況及び取得終了に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558231/</link>
-      <description>適時開示：自己投資口の取得状況及び取得終了に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558231/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【都市ファンド (8953)】資産運用会社の会社分割の効力発生日の変更に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558290/</link>
-      <description>適時開示：資産運用会社の会社分割の効力発生日の変更に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558290/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【テーオーシー (8841)】TOCビル再稼働状況および新TOCビル計画に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558257/</link>
       <description>適時開示：TOCビル再稼働状況および新TOCビル計画に関するお知らせ</description>
@@ -6008,34 +5742,6 @@
       <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>【いちごホテル (3463)】投資主優待制度（宿泊代金割引）の概要決定のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250912557753/</link>
-      <description>適時開示：投資主優待制度（宿泊代金割引）の概要決定のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250912557753/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【いちごホテル (3463)】2025年7月期（第20期）決算説明資料</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250912557760/</link>
-      <description>適時開示：2025年7月期（第20期）決算説明資料</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250912557760/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【いちごホテル (3463)】July 2025 Fiscal Period Earnings</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916557908/</link>
-      <description>適時開示：July 2025 Fiscal Period Earnings</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916557908/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【サムティＲ (3459)】国内不動産信託受益権の取得に関するお知らせ（S-RESIDENCE横濱吉野町）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558004/</link>
-      <description>適時開示：国内不動産信託受益権の取得に関するお知らせ（S-RESIDENCE横濱吉野町）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558004/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【Ｔ－ＢＡＳＥ (3415)】業績予想の修正に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250916/140120250912557637/</link>
       <description>適時開示：業績予想の修正に関するお知らせ</description>
@@ -6078,27 +5784,6 @@
       <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>【イオンリート (3292)】2025年7月期　決算短信（ＲＥＩＴ）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558222/</link>
-      <description>適時開示：2025年7月期　決算短信（ＲＥＩＴ）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558222/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【イオンリート (3292)】2025年7月期の分配金の予想額と決定額との差異及び2026年1月期の分配金の予想額の修正に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558236/</link>
-      <description>適時開示：2025年7月期の分配金の予想額と決定額との差異及び2026年1月期の分配金の予想額の修正に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558236/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【イオンリート (3292)】2025年7月期（第25期）決算説明会資料</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558240/</link>
-      <description>適時開示：2025年7月期（第25期）決算説明会資料</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558240/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【フィルＣ (3267)】固定資産の譲渡及びマスターリース契約解約に伴う営業外収益及び特別利益の計上に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558042/</link>
       <description>適時開示：固定資産の譲渡及びマスターリース契約解約に伴う営業外収益及び特別利益の計上に関するお知らせ</description>
@@ -6106,38 +5791,10 @@
       <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>【産業ファンド (3249)】資産運用会社の会社分割の効力発生日の変更に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558279/</link>
-      <description>適時開示：資産運用会社の会社分割の効力発生日の変更に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558279/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【森ヒルズＲ (3234)】森ビル株式会社による本投資法人投資口の追加取得に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558193/</link>
-      <description>適時開示：森ビル株式会社による本投資法人投資口の追加取得に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558193/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【Ｊフロント (3086)】２０２５年８月度　Ｊ．フロントリテイリング　連結売上収益報告（ＩＦＲＳ）</title>
       <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558389/</link>
       <description>適時開示：２０２５年８月度　Ｊ．フロントリテイリング　連結売上収益報告（ＩＦＲＳ）</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558389/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【東海道リート (2989)】2025年７月期　決算短信（ＲＥＩＴ）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250912557050/</link>
-      <description>適時開示：2025年７月期　決算短信（ＲＥＩＴ）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250912557050/</guid>
-      <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【野村米Ｂ保Ｈ (2863)】「NEXT FUNDS S&amp;P米国株式・債券バランス保守型指数（為替ヘッジあり）連動型上場投信」の信託終了および信託終了にかかる約款変更の可能性に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558387/</link>
-      <description>適時開示：「NEXT FUNDS S&amp;P米国株式・債券バランス保守型指数（為替ヘッジあり）連動型上場投信」の信託終了および信託終了にかかる約款変更の可能性に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558387/</guid>
       <pubDate>Tue, 16 Sep 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -6271,13 +5928,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558436/</link>
       <description>適時開示：新工場の稼働に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558436/</guid>
-      <pubDate>Tue, 16 Sep 2025 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【福岡リート (8968)】資金の借入に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558160/</link>
-      <description>適時開示：資金の借入に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558160/</guid>
       <pubDate>Tue, 16 Sep 2025 16:00:00 +0900</pubDate>
     </item>
     <item>
@@ -6519,41 +6169,6 @@
       <pubDate>Tue, 16 Sep 2025 16:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>【コンフォリア (3282)】借入金の期限前返済に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250912557529/</link>
-      <description>適時開示：借入金の期限前返済に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250912557529/</guid>
-      <pubDate>Tue, 16 Sep 2025 16:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【コンフォリア (3282)】自己投資口取得に係る事項の決定に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250912557835/</link>
-      <description>適時開示：自己投資口取得に係る事項の決定に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250912557835/</guid>
-      <pubDate>Tue, 16 Sep 2025 16:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【コンフォリア (3282)】国内不動産信託受益権の取得及び譲渡に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250912557837/</link>
-      <description>適時開示：国内不動産信託受益権の取得及び譲渡に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250912557837/</guid>
-      <pubDate>Tue, 16 Sep 2025 16:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【アドバンスＲ (3269)】資産運用会社の社内規程（運用ガイドライン）の改定に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558117/</link>
-      <description>適時開示：資産運用会社の社内規程（運用ガイドライン）の改定に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558117/</guid>
-      <pubDate>Tue, 16 Sep 2025 16:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【アドバンスＲ (3269)】規約一部変更及び役員選任に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558123/</link>
-      <description>適時開示：規約一部変更及び役員選任に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558123/</guid>
-      <pubDate>Tue, 16 Sep 2025 16:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【スターシーズ (3083)】高圧系統用オールインワン型蓄電池システムの構築及び受注に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558447/</link>
       <description>適時開示：高圧系統用オールインワン型蓄電池システムの構築及び受注に関するお知らせ</description>
@@ -6593,13 +6208,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558157/</link>
       <description>適時開示：株式報酬制度における株式取得に係る事項の決定に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558157/</guid>
-      <pubDate>Tue, 16 Sep 2025 16:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【アドバンスＲ (3269)】2025年07月期（第30期） 決算説明資料</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558502/</link>
-      <description>適時開示：2025年07月期（第30期） 決算説明資料</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558502/</guid>
       <pubDate>Tue, 16 Sep 2025 16:45:00 +0900</pubDate>
     </item>
     <item>
@@ -6656,6 +6264,13 @@
       <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558458/</link>
       <description>適時開示：2025年10月期第３四半期決算短信〔日本基準〕(連結)</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558458/</guid>
+      <pubDate>Tue, 16 Sep 2025 17:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【インソース (6200)】完全子会社である株式会社インソースマーケティングデザインの吸収合併（簡易合併・ 略式合併）に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558242/</link>
+      <description>適時開示：完全子会社である株式会社インソースマーケティングデザインの吸収合併（簡易合併・ 略式合併）に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558242/</guid>
       <pubDate>Tue, 16 Sep 2025 17:00:00 +0900</pubDate>
     </item>
     <item>
@@ -6736,13 +6351,6 @@
       <pubDate>Tue, 16 Sep 2025 17:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【サムティＲ (3459)】サムティ株式会社による本投資法人投資口の追加取得に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558043/</link>
-      <description>適時開示：サムティ株式会社による本投資法人投資口の追加取得に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558043/</guid>
-      <pubDate>Tue, 16 Sep 2025 17:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【日本調剤 (3341)】取締役の辞任、組織改編並びに取締役・執行役員の担当職務及び業務委嘱事項に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250916/140120250911556191/</link>
       <description>適時開示：取締役の辞任、組織改編並びに取締役・執行役員の担当職務及び業務委嘱事項に関するお知らせ</description>
@@ -6790,6 +6398,41 @@
       <description>適時開示：上場維持基準の適合に向けた計画の変更について</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558528/</guid>
       <pubDate>Tue, 16 Sep 2025 17:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【サイフューズ (4892)】第22回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558470/</link>
+      <description>適時開示：第22回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558470/</guid>
+      <pubDate>Tue, 16 Sep 2025 17:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＳＢＩＧＡＭ (4765)】『SBI・全世界株式インデックス・ファンド（愛称：雪だるま（全世界株式））』 純資産残高 3,000 億円突破のお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558532/</link>
+      <description>適時開示：『SBI・全世界株式インデックス・ファンド（愛称：雪だるま（全世界株式））』 純資産残高 3,000 億円突破のお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558532/</guid>
+      <pubDate>Tue, 16 Sep 2025 17:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＳＹＳＨＤ (3988)】2025年７月期決算説明会資料</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250912557696/</link>
+      <description>適時開示：2025年７月期決算説明会資料</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250912557696/</guid>
+      <pubDate>Tue, 16 Sep 2025 17:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＧＭＯリＡＩ (3695)】代表取締役の異動に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250912557782/</link>
+      <description>適時開示：代表取締役の異動に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250912557782/</guid>
+      <pubDate>Tue, 16 Sep 2025 17:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【オルトＰ (3672)】ゲームアプリ『ヒプノシスマイク -Alternative Rap Battle-』リリースから5年半を記念した5.5th ANNIVERSARYキャンペーン実施のお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250916/140120250916558526/</link>
+      <description>適時開示：ゲームアプリ『ヒプノシスマイク -Alternative Rap Battle-』リリースから5年半を記念した5.5th ANNIVERSARYキャンペーン実施のお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250916/140120250916558526/</guid>
+      <pubDate>Tue, 16 Sep 2025 17:35:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
