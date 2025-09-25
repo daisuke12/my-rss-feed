@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Sep 2025 07:40:18 +0000</lastBuildDate>
-    <item>
-      <title>【セレス (3696)】配当予想の修正（増配）に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250919/140120250918559863/</link>
-      <description>適時開示：配当予想の修正（増配）に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250919/140120250918559863/</guid>
-      <pubDate>Fri, 19 Sep 2025 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【デジプラ (3691)】テノ．ホールディングスが株主優待としてデジタルギフトを採用</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250919/140120250919560088/</link>
-      <description>適時開示：テノ．ホールディングスが株主優待としてデジタルギフトを採用</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250919/140120250919560088/</guid>
-      <pubDate>Fri, 19 Sep 2025 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 07:51:53 +0000</lastBuildDate>
     <item>
       <title>【ＡＮＡＰＨＤ (3189)】当社グループによるビットコイン購入に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250919/140120250919560147/</link>
@@ -5747,6 +5733,13 @@
       <description>適時開示：第三者割当に係る株式譲渡報告書（新株式）</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250925/140120250925562586/</guid>
       <pubDate>Thu, 25 Sep 2025 16:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＪＩＡ (7172)】JIA 証券 福岡証券取引所の特定正会員加入承認のお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250925/140120250925562315/</link>
+      <description>適時開示：JIA 証券 福岡証券取引所の特定正会員加入承認のお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250925/140120250925562315/</guid>
+      <pubDate>Thu, 25 Sep 2025 16:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
