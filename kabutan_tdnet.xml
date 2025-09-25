@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Sep 2025 08:48:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 08:59:55 +0000</lastBuildDate>
     <item>
       <title>【イード (6038)】フィスコ企業調査レポート発行のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250919/140120250919560286/</link>
@@ -5063,6 +5063,13 @@
       <pubDate>Thu, 25 Sep 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
+      <title>【不二製油 (2607)】財務上の特約が付された金銭消費貸借契約の締結について</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250925/140120250925562043/</link>
+      <description>適時開示：財務上の特約が付された金銭消費貸借契約の締結について</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250925/140120250925562043/</guid>
+      <pubDate>Thu, 25 Sep 2025 15:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>【手間いらず (2477)】支配株主等に関する事項について</title>
       <link>https://kabutan.jp/disclosures/pdf/20250925/140120250925562251/</link>
       <description>適時開示：支配株主等に関する事項について</description>
@@ -5354,13 +5361,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20250925/140120250925562305/</link>
       <description>適時開示：支配株主等に関する事項について</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250925/140120250925562305/</guid>
-      <pubDate>Thu, 25 Sep 2025 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【笹徳印刷 (3958)】代表取締役の異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250925/140120250918559738/</link>
-      <description>適時開示：代表取締役の異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250925/140120250918559738/</guid>
       <pubDate>Thu, 25 Sep 2025 16:00:00 +0900</pubDate>
     </item>
     <item>
@@ -5712,6 +5712,13 @@
       <description>適時開示：代表取締役の異動に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250925/140120250925562701/</guid>
       <pubDate>Thu, 25 Sep 2025 17:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【レオパレス (8848)】主要株主である筆頭株主の異動の見込みに関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250925/140120250925562642/</link>
+      <description>適時開示：主要株主である筆頭株主の異動の見込みに関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250925/140120250925562642/</guid>
+      <pubDate>Thu, 25 Sep 2025 17:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
