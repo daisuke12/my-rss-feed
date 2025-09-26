@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Sep 2025 15:18:32 +0000</lastBuildDate>
-    <item>
-      <title>【セイファート (9213)】主要株主の異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250924/140120250924561377/</link>
-      <description>適時開示：主要株主の異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250924/140120250924561377/</guid>
-      <pubDate>Wed, 24 Sep 2025 12:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ソフィア (6942)】当社連結子会社による株式取得（孫会社化）に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250924/140120250922560850/</link>
-      <description>適時開示：当社連結子会社による株式取得（孫会社化）に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250924/140120250922560850/</guid>
-      <pubDate>Wed, 24 Sep 2025 12:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 15:41:06 +0000</lastBuildDate>
     <item>
       <title>【ソフィア (6942)】本店移転に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250924/140120250922560852/</link>
@@ -5488,6 +5474,20 @@
       <description>適時開示：(Amendment)Supplementary Financial Data</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250926/140120250926563599/</guid>
       <pubDate>Fri, 26 Sep 2025 18:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【松風 (7979)】統合報告書2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250927/140120250926562812/</link>
+      <description>適時開示：統合報告書2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250927/140120250926562812/</guid>
+      <pubDate>Sat, 27 Sep 2025 00:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【クラダシ (5884)】サステナビリティレポート2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250927/140120250926563224/</link>
+      <description>適時開示：サステナビリティレポート2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250927/140120250926563224/</guid>
+      <pubDate>Sat, 27 Sep 2025 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
