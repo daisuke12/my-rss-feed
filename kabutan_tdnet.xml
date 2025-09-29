@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Sep 2025 23:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 23:51:59 +0000</lastBuildDate>
     <item>
       <title>【Ｍ＆Ａキャピ (6080)】新潟日報社と業務提携のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20250925/140120250922560898/</link>
@@ -1519,13 +1519,6 @@
       <description>適時開示：営業外収益の計上に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250926/140120250926562836/</guid>
       <pubDate>Fri, 26 Sep 2025 12:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【インサイト (2172)】支配株主等に関する事項について</title>
-      <link>https://kabutan.jp/disclosures/pdf/20250926/140120250925562647/</link>
-      <description>適時開示：支配株主等に関する事項について</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250926/140120250925562647/</guid>
-      <pubDate>Fri, 26 Sep 2025 13:00:00 +0900</pubDate>
     </item>
     <item>
       <title>【インサイト (2172)】支配株主等に関する事項について</title>
@@ -5376,6 +5369,20 @@
       <description>適時開示：ノボノルディスク・エーエスとの提携関係の解消に関する追加コメント</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250930/140120250930564763/</guid>
       <pubDate>Tue, 30 Sep 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ロボペイ (4374)】請求・債権管理システム「請求管理ロボ」が 累計請求書発行件数2,000万枚を達成</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250930/140120250929564044/</link>
+      <description>適時開示：請求・債権管理システム「請求管理ロボ」が 累計請求書発行件数2,000万枚を達成</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250930/140120250929564044/</guid>
+      <pubDate>Tue, 30 Sep 2025 08:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【かっこ (4166)】WordPress専用のECプラグイン「Welcart」と不正検知サービス「O-PLUX Account Protection」が公式連携を開始</title>
+      <link>https://kabutan.jp/disclosures/pdf/20250930/140120250929564005/</link>
+      <description>適時開示：WordPress専用のECプラグイン「Welcart」と不正検知サービス「O-PLUX Account Protection」が公式連携を開始</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20250930/140120250929564005/</guid>
+      <pubDate>Tue, 30 Sep 2025 08:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
