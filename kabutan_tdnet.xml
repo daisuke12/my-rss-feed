@@ -7,84 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Oct 2025 08:22:12 +0000</lastBuildDate>
-    <item>
-      <title>【グンゼ (3002)】グンゼ統合レポート2025</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120250930564950/</link>
-      <description>適時開示：グンゼ統合レポート2025</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120250930564950/</guid>
-      <pubDate>Wed, 01 Oct 2025 00:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【雪印メグ (2270)】雪印メグミルクレポート2025（統合報告書）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120250930565316/</link>
-      <description>適時開示：雪印メグミルクレポート2025（統合報告書）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120250930565316/</guid>
-      <pubDate>Wed, 01 Oct 2025 00:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【フィードワン (2060)】フィード・ワン　統合報告書2025</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120250926563388/</link>
-      <description>適時開示：フィード・ワン　統合報告書2025</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120250926563388/</guid>
-      <pubDate>Wed, 01 Oct 2025 00:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【四電工 (1939)】株式会社四電工 総合報告書2025</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120250930564796/</link>
-      <description>適時開示：株式会社四電工 総合報告書2025</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120250930564796/</guid>
-      <pubDate>Wed, 01 Oct 2025 00:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【世紀東急 (1898)】統合報告書2025</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120250930564930/</link>
-      <description>適時開示：統合報告書2025</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120250930564930/</guid>
-      <pubDate>Wed, 01 Oct 2025 00:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【長谷工 (1808)】長谷工グループ統合報告書2025</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120250930565110/</link>
-      <description>適時開示：長谷工グループ統合報告書2025</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120250930565110/</guid>
-      <pubDate>Wed, 01 Oct 2025 00:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【安藤ハザマ (1719)】コーポレートレポート2025</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120250930565416/</link>
-      <description>適時開示：コーポレートレポート2025</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120250930565416/</guid>
-      <pubDate>Wed, 01 Oct 2025 00:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【安藤ハザマ (1719)】サステナビリティレポート2025</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120250930565424/</link>
-      <description>適時開示：サステナビリティレポート2025</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120250930565424/</guid>
-      <pubDate>Wed, 01 Oct 2025 00:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【石油資源 (1662)】統合報告書2025</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120250926563563/</link>
-      <description>適時開示：統合報告書2025</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120250926563563/</guid>
-      <pubDate>Wed, 01 Oct 2025 00:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ショクブン (9969)】サイトリニューアルのお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120250930565007/</link>
-      <description>適時開示：サイトリニューアルのお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120250930565007/</guid>
-      <pubDate>Wed, 01 Oct 2025 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ココルポート (9346)】ココルポート初となる就労継続支援B型併設の多機能型事業所を開設</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120250923561092/</link>
-      <description>適時開示：ココルポート初となる就労継続支援B型併設の多機能型事業所を開設</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120250923561092/</guid>
-      <pubDate>Wed, 01 Oct 2025 08:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Oct 2025 08:46:23 +0000</lastBuildDate>
     <item>
       <title>【ココルポート (9346)】事業所のオープンのお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251001/140120250923561093/</link>
@@ -1476,6 +1399,13 @@
       <link>https://kabutan.jp/disclosures/pdf/20251001/140120251001566823/</link>
       <description>適時開示：ラジオ NIKKEI「新社名見聞録」に代表取締役 松田元が出演！～「投資の日 WEEK 特別企画」にて社名変更に込めた想いを語る～</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120251001566823/</guid>
+      <pubDate>Wed, 01 Oct 2025 15:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【高島屋 (8233)】2025年9月度 高島屋店頭売上速報</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251001/140120250924561393/</link>
+      <description>適時開示：2025年9月度 高島屋店頭売上速報</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120250924561393/</guid>
       <pubDate>Wed, 01 Oct 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -4004,6 +3934,27 @@
       <description>適時開示：主要株主の異動に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251002/140120251002567656/</guid>
       <pubDate>Thu, 02 Oct 2025 17:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【進学会ＨＤ (9760)】連結子会社の保有する有価証券の評価損発生に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251002/140120251002567374/</link>
+      <description>適時開示：連結子会社の保有する有価証券の評価損発生に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251002/140120251002567374/</guid>
+      <pubDate>Thu, 02 Oct 2025 17:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【サトー (6287)】スポンサードリサーチレポート発行のお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251002/140120251002567706/</link>
+      <description>適時開示：スポンサードリサーチレポート発行のお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251002/140120251002567706/</guid>
+      <pubDate>Thu, 02 Oct 2025 17:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【オルトＰ (3672)】人気ゲームアプリ『忘却前夜』に新覚醒体「リリー」が登場！新覚醒体イベントを本日10月２日(木)15時より開催！</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251002/140120251002567465/</link>
+      <description>適時開示：人気ゲームアプリ『忘却前夜』に新覚醒体「リリー」が登場！新覚醒体イベントを本日10月２日(木)15時より開催！</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251002/140120251002567465/</guid>
+      <pubDate>Thu, 02 Oct 2025 17:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
