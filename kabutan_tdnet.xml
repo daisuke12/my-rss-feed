@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Oct 2025 23:29:19 +0000</lastBuildDate>
-    <item>
-      <title>【イーガーディ (6050)】取締役及び執行役員人事のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120251001566006/</link>
-      <description>適時開示：取締役及び執行役員人事のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120251001566006/</guid>
-      <pubDate>Wed, 01 Oct 2025 08:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【Ｊエレベータ (6544)】新座営業所開設に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120250930565269/</link>
-      <description>適時開示：新座営業所開設に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120250930565269/</guid>
-      <pubDate>Wed, 01 Oct 2025 08:59:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Oct 2025 23:39:55 +0000</lastBuildDate>
     <item>
       <title>【Ｊエレベータ (6544)】Japan Elevator Service Opened a Service Office in Niiza</title>
       <link>https://kabutan.jp/disclosures/pdf/20251001/140120250930565284/</link>
@@ -3962,6 +3948,13 @@
       <description>適時開示：主要株主及び主要株主である筆頭株主の異動に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251003/140120251002567561/</guid>
       <pubDate>Fri, 03 Oct 2025 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＪＲ東海 (9022)】公正取引委員会からの意見聴取通知書の受領について</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251003/140120250930564995/</link>
+      <description>適時開示：公正取引委員会からの意見聴取通知書の受領について</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251003/140120250930564995/</guid>
+      <pubDate>Fri, 03 Oct 2025 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
