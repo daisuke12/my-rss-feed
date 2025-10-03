@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Oct 2025 08:22:13 +0000</lastBuildDate>
-    <item>
-      <title>【日化薬 (4272)】役員の異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120251001566763/</link>
-      <description>適時開示：役員の異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120251001566763/</guid>
-      <pubDate>Wed, 01 Oct 2025 15:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ブルーゾーン (417A)】株式会社ブルーゾーンホールディングスの設立及び子会社の現物配当による孫会社の異動（グループ内組織再編）に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251001/140120251001566680/</link>
-      <description>適時開示：株式会社ブルーゾーンホールディングスの設立及び子会社の現物配当による孫会社の異動（グループ内組織再編）に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251001/140120251001566680/</guid>
-      <pubDate>Wed, 01 Oct 2025 15:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Oct 2025 08:46:23 +0000</lastBuildDate>
     <item>
       <title>【ブルーゾーン (417A)】連結子会社からの配当金受領に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251001/140120251001566698/</link>
@@ -3747,13 +3733,6 @@
       <pubDate>Fri, 03 Oct 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>【コシダカＨＤ (2157)】固定資産の譲渡及び特別利益の計上に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251003/140120251003568009/</link>
-      <description>適時開示：固定資産の譲渡及び特別利益の計上に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251003/140120251003568009/</guid>
-      <pubDate>Fri, 03 Oct 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【ロゴスＨＤ (205A)】【ロゴスホールディングス】個人投資家向け IR セミナー参加のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251003/140120251003568031/</link>
       <description>適時開示：【ロゴスホールディングス】個人投資家向け IR セミナー参加のお知らせ</description>
@@ -3800,6 +3779,13 @@
       <link>https://kabutan.jp/disclosures/pdf/20251003/140120251003567950/</link>
       <description>適時開示：日本最大級のLMS「Leaf（リーフ）」アクティブユーザー数 500万人突破記念！ ～新規導入/LMS切り替えのお客様に向けたキャンペーンのお知らせ～</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251003/140120251003567950/</guid>
+      <pubDate>Fri, 03 Oct 2025 15:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【フィナＨＤ (4419)】ナウキャストのデータホルダーにインティメート・マージャーが参画</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251003/140120251003568298/</link>
+      <description>適時開示：ナウキャストのデータホルダーにインティメート・マージャーが参画</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251003/140120251003568298/</guid>
       <pubDate>Fri, 03 Oct 2025 15:40:00 +0900</pubDate>
     </item>
     <item>
@@ -4130,6 +4116,27 @@
       <description>適時開示：大口受注に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251003/140120251003568396/</guid>
       <pubDate>Fri, 03 Oct 2025 17:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【放電精密 (6469)】「藻類スツール 蓮／REN」予約受付開始にあたって材料供給のお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251003/140120251003568053/</link>
+      <description>適時開示：「藻類スツール 蓮／REN」予約受付開始にあたって材料供給のお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251003/140120251003568053/</guid>
+      <pubDate>Fri, 03 Oct 2025 17:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【 (434A)】支配株主等に関する事項について</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251003/140120251003568367/</link>
+      <description>適時開示：支配株主等に関する事項について</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251003/140120251003568367/</guid>
+      <pubDate>Fri, 03 Oct 2025 17:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【地域新聞社 (2164)】「個人投資家向けオンライン会社説明会」登壇のお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251003/140120251003568300/</link>
+      <description>適時開示：「個人投資家向けオンライン会社説明会」登壇のお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251003/140120251003568300/</guid>
+      <pubDate>Fri, 03 Oct 2025 17:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
