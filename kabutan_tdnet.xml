@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Oct 2025 05:18:15 +0000</lastBuildDate>
-    <item>
-      <title>【ガーラ (4777)】非上場の親会社等の決算情報に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251002/140120251002567381/</link>
-      <description>適時開示：非上場の親会社等の決算情報に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251002/140120251002567381/</guid>
-      <pubDate>Thu, 02 Oct 2025 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Oct 2025 05:36:08 +0000</lastBuildDate>
     <item>
       <title>【ソフト９９ (4464)】（変更）「堯AM（株）による（株）ソフト９９コーポレーション（証券コード：4464）の株式に対する公開買付けの開始に関するお知らせ」の変更に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251002/140120251002567635/</link>
@@ -1511,6 +1504,13 @@
       <link>https://kabutan.jp/disclosures/pdf/20251003/140120251003568003/</link>
       <description>適時開示：個人投資家向けオンライン会社説明会（決算説明会）登壇のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251003/140120251003568003/</guid>
+      <pubDate>Fri, 03 Oct 2025 15:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ミライトワン (1417)】「CEATEC 2025」において、ブース内セミナーを開催</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251003/140120251003568148/</link>
+      <description>適時開示：「CEATEC 2025」において、ブース内セミナーを開催</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251003/140120251003568148/</guid>
       <pubDate>Fri, 03 Oct 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -4398,13 +4398,6 @@
       <pubDate>Tue, 07 Oct 2025 17:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【イメージワン (2667)】当社に対する訴訟提起に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251007/140120251007569612/</link>
-      <description>適時開示：当社に対する訴訟提起に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251007/140120251007569612/</guid>
-      <pubDate>Tue, 07 Oct 2025 17:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【三機工 (1961)】当社請負現場における重油流出事故についてのお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251007/140120251007569347/</link>
       <description>適時開示：当社請負現場における重油流出事故についてのお知らせ</description>
@@ -4886,6 +4879,20 @@
       <description>適時開示：2025年9月度　月次売上高前年比速報</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251008/140120251008569885/</guid>
       <pubDate>Wed, 08 Oct 2025 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【東邦ＨＤ (8129)】～公益社団法人日本薬剤師会と株式会社ファルモとの連携強化～「N-Bridge」および「NB Station」の 開発・提供に向けた協力について</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251008/140120251008570143/</link>
+      <description>適時開示：～公益社団法人日本薬剤師会と株式会社ファルモとの連携強化～「N-Bridge」および「NB Station」の 開発・提供に向けた協力について</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251008/140120251008570143/</guid>
+      <pubDate>Wed, 08 Oct 2025 14:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＳＢＧ (9984)】ABB Ltdのロボティクス事業の買収に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251008/140120251006569118/</link>
+      <description>適時開示：ABB Ltdのロボティクス事業の買収に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251008/140120251006569118/</guid>
+      <pubDate>Wed, 08 Oct 2025 14:25:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
