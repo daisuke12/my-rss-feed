@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Oct 2025 15:31:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 15:47:29 +0000</lastBuildDate>
     <item>
       <title>【アンビＤＸ (3300)】生成AIによるプレゼンテーション資料作成の自動化を実現</title>
       <link>https://kabutan.jp/disclosures/pdf/20251003/140120251003568199/</link>
@@ -1955,13 +1955,6 @@
       <pubDate>Tue, 07 Oct 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>【アドヴァンＧ (7463)】剰余金の配当（中間期）に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251007/140120251007569564/</link>
-      <description>適時開示：剰余金の配当（中間期）に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251007/140120251007569564/</guid>
-      <pubDate>Tue, 07 Oct 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【アップガレＧ (7134)】2026年３月期 ９月度月次売上状況（速報）等について 説明動画公開のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251007/140120251007569368/</link>
       <description>適時開示：2026年３月期 ９月度月次売上状況（速報）等について 説明動画公開のお知らせ</description>
@@ -2239,20 +2232,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20251007/140120251007569487/</link>
       <description>適時開示：南大和病院　管理栄養士　依田理恵子先生が時間栄養学を用いたサルコペニア予防のコツを紹介 「しっかり栄養、パワーアップ食」を10/８（水）配信</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251007/140120251007569487/</guid>
-      <pubDate>Tue, 07 Oct 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【アールプラン (2983)】「個人投資家向けオンライン会社説明会」オンデマンド配信のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251007/140120251007569287/</link>
-      <description>適時開示：「個人投資家向けオンライン会社説明会」オンデマンド配信のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251007/140120251007569287/</guid>
-      <pubDate>Tue, 07 Oct 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【わらべ日洋 (2918)】2026年２月期  第２四半期（中間期）決算短信〔日本基準〕（連結）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251007/140120251006569115/</link>
-      <description>適時開示：2026年２月期  第２四半期（中間期）決算短信〔日本基準〕（連結）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251007/140120251006569115/</guid>
       <pubDate>Tue, 07 Oct 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -5558,6 +5537,13 @@
       <description>適時開示：法定事前開示書類（会社分割）（タイム・アンド・スペース）別紙3</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251009/140120251009570623/</guid>
       <pubDate>Thu, 09 Oct 2025 19:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＮＳＤ (9759)】統合報告書2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251010/140120251006568651/</link>
+      <description>適時開示：統合報告書2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251010/140120251006568651/</guid>
+      <pubDate>Fri, 10 Oct 2025 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
