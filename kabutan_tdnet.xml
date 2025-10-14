@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Oct 2025 08:47:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 08:58:34 +0000</lastBuildDate>
     <item>
       <title>【オオバ (9765)】2026年５月期 第１四半期決算短信〔日本基準〕（連結）</title>
       <link>https://kabutan.jp/disclosures/pdf/20251009/140120251008570110/</link>
@@ -3971,6 +3971,13 @@
       <pubDate>Tue, 14 Oct 2025 15:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>【ＭＶ東海 (8198)】2026年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251014/140120251013572268/</link>
+      <description>適時開示：2026年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251014/140120251013572268/</guid>
+      <pubDate>Tue, 14 Oct 2025 15:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>【ＭＶ東海 (8198)】2026年２月期第２四半期（中間期） 決算参考資料</title>
       <link>https://kabutan.jp/disclosures/pdf/20251014/140120251013572276/</link>
       <description>適時開示：2026年２月期第２四半期（中間期） 決算参考資料</description>
@@ -4395,13 +4402,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20251014/140120251014572872/</link>
       <description>適時開示：（開示事項の変更）「減損損失の計上に関するお知らせ」の一部変更について</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251014/140120251014572872/</guid>
-      <pubDate>Tue, 14 Oct 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ネクスＧ (6634)】2025年11月期第３四半期決算短信〔日本基準〕(連結)</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251014/140120251010572082/</link>
-      <description>適時開示：2025年11月期第３四半期決算短信〔日本基準〕(連結)</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251014/140120251010572082/</guid>
       <pubDate>Tue, 14 Oct 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -6447,6 +6447,13 @@
       <description>適時開示：『岩永徹也プレミアムトークショー vol.2』開催決定のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251014/140120251014572846/</guid>
       <pubDate>Tue, 14 Oct 2025 17:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【フクビ (7871)】「大規模成長投資補助金」採択に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251014/140120251014573255/</link>
+      <description>適時開示：「大規模成長投資補助金」採択に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251014/140120251014573255/</guid>
+      <pubDate>Tue, 14 Oct 2025 17:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
