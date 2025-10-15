@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Oct 2025 23:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 23:52:14 +0000</lastBuildDate>
     <item>
       <title>【セレ (5078)】2026年２月期 第２四半期（中間期）決算短信〔日本基準〕(連結)</title>
       <link>https://kabutan.jp/disclosures/pdf/20251014/140120250902551933/</link>
@@ -447,13 +447,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20251014/140120251013572269/</link>
       <description>適時開示：剰余金の配当に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251014/140120251013572269/</guid>
-      <pubDate>Tue, 14 Oct 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【旭化学 (7928)】公益財団法人財務会計基準機構への加入状況及び加入に関する考え方に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251014/140120251013572275/</link>
-      <description>適時開示：公益財団法人財務会計基準機構への加入状況及び加入に関する考え方に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251014/140120251013572275/</guid>
       <pubDate>Tue, 14 Oct 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -6979,6 +6972,20 @@
       <description>適時開示：東京証券取引所プライム市場への上場に伴う当社決算情報等のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251016/140120251015574402/</guid>
       <pubDate>Thu, 16 Oct 2025 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ジオコード (7357)】ジオコード、2つのサービス名称を発展的に変更</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251016/140120251015574192/</link>
+      <description>適時開示：ジオコード、2つのサービス名称を発展的に変更</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251016/140120251015574192/</guid>
+      <pubDate>Thu, 16 Oct 2025 08:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ロボペイ (4374)】株式会社ピナイ・インターナショナル、サブスクリプション管理システム「サブスクペイ」を導入</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251016/140120251015573529/</link>
+      <description>適時開示：株式会社ピナイ・インターナショナル、サブスクリプション管理システム「サブスクペイ」を導入</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251016/140120251015573529/</guid>
+      <pubDate>Thu, 16 Oct 2025 08:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
