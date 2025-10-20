@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Oct 2025 04:24:23 +0000</lastBuildDate>
-    <item>
-      <title>【ニチバン (4218)】本社・東京オフィス統合および移転のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251015/140120251010572021/</link>
-      <description>適時開示：本社・東京オフィス統合および移転のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251015/140120251010572021/</guid>
-      <pubDate>Wed, 15 Oct 2025 13:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【 (362A)】臨時株主総会招集のための基準日設定及び臨時株主総会の開催並びに付議議案（取締役選任及び監査役選任）の決定に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251015/140120251015573500/</link>
-      <description>適時開示：臨時株主総会招集のための基準日設定及び臨時株主総会の開催並びに付議議案（取締役選任及び監査役選任）の決定に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251015/140120251015573500/</guid>
-      <pubDate>Wed, 15 Oct 2025 13:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Oct 2025 04:46:29 +0000</lastBuildDate>
     <item>
       <title>【ＹＳフード (3358)】臨時株主総会招集のための基準日設定に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251015/140120251015573891/</link>
@@ -6685,6 +6671,13 @@
       <description>適時開示：AI推論向けNPU取扱いに関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251020/140120251020575700/</guid>
       <pubDate>Mon, 20 Oct 2025 13:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【シンバイオ (4582)】高感度（1兆分の１の検出感度）の画期的イムノアッセイ法の特許を取得</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251020/140120251020575683/</link>
+      <description>適時開示：高感度（1兆分の１の検出感度）の画期的イムノアッセイ法の特許を取得</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251020/140120251020575683/</guid>
+      <pubDate>Mon, 20 Oct 2025 13:35:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
