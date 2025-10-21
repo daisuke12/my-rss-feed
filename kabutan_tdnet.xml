@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Oct 2025 07:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 07:52:13 +0000</lastBuildDate>
     <item>
       <title>【ハピネス＆Ｄ (3174)】2025年８月期  決算短信〔日本基準〕（連結）</title>
       <link>https://kabutan.jp/disclosures/pdf/20251015/140120251015573763/</link>
@@ -846,13 +846,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20251015/140120251015573774/</link>
       <description>適時開示：剰余金の配当に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251015/140120251015573774/</guid>
-      <pubDate>Wed, 15 Oct 2025 17:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【 (5130)】通期連結業績予想と実績の差異（上方修正）に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251015/140120251015573781/</link>
-      <description>適時開示：通期連結業績予想と実績の差異（上方修正）に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251015/140120251015573781/</guid>
       <pubDate>Wed, 15 Oct 2025 17:00:00 +0900</pubDate>
     </item>
     <item>
@@ -6216,6 +6209,13 @@
       <description>適時開示：連結子会社間の吸収合併に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251021/140120251021576086/</guid>
       <pubDate>Tue, 21 Oct 2025 16:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【パパネッツ (9388)】株式の立会外分売実施に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251021/140120251021576592/</link>
+      <description>適時開示：株式の立会外分売実施に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251021/140120251021576592/</guid>
+      <pubDate>Tue, 21 Oct 2025 16:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
