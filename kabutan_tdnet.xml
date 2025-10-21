@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Oct 2025 08:24:42 +0000</lastBuildDate>
-    <item>
-      <title>【ＧＲＣＳ (9250)】業績予想の修正に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251015/140120251015573926/</link>
-      <description>適時開示：業績予想の修正に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251015/140120251015573926/</guid>
-      <pubDate>Wed, 15 Oct 2025 16:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 08:50:16 +0000</lastBuildDate>
     <item>
       <title>【ＧＲＣＳ (9250)】2025年11月期 第３四半期決算説明資料</title>
       <link>https://kabutan.jp/disclosures/pdf/20251015/140120251015574259/</link>
@@ -6230,6 +6223,13 @@
       <description>適時開示：公募増資・第三者割当増資に関する補足説明</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251021/140120251021576600/</guid>
       <pubDate>Tue, 21 Oct 2025 17:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【モルフォ (3653)】法定事前開示書類（合併）（株式会社モルフォAIソリューションズ）</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251021/140120251021576631/</link>
+      <description>適時開示：法定事前開示書類（合併）（株式会社モルフォAIソリューションズ）</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251021/140120251021576631/</guid>
+      <pubDate>Tue, 21 Oct 2025 17:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
