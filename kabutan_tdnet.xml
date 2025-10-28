@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Oct 2025 05:44:26 +0000</lastBuildDate>
-    <item>
-      <title>【ＳＨＩＦＴ (3697)】法定事前開示書類（吸収合併）（株式会社KINSHA）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251022/140120251021576686/</link>
-      <description>適時開示：法定事前開示書類（吸収合併）（株式会社KINSHA）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251022/140120251021576686/</guid>
-      <pubDate>Wed, 22 Oct 2025 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Oct 2025 05:53:26 +0000</lastBuildDate>
     <item>
       <title>【ＳＨＩＦＴ (3697)】法定事前開示書類（吸収分割）（株式会社SHIFTグロース・キャピタル）</title>
       <link>https://kabutan.jp/disclosures/pdf/20251022/140120251021576687/</link>
@@ -5950,6 +5943,13 @@
       <description>適時開示：米Vulcan社の生コンクリート事業用資産等買収に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251028/140120251028580030/</guid>
       <pubDate>Tue, 28 Oct 2025 14:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【クシム (2345)】第三者割当に係る株式譲渡報告確約書（新株式）</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251028/140120251028580357/</link>
+      <description>適時開示：第三者割当に係る株式譲渡報告確約書（新株式）</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251028/140120251028580357/</guid>
+      <pubDate>Tue, 28 Oct 2025 14:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
