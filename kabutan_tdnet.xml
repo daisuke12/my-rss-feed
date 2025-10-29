@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Oct 2025 15:21:07 +0000</lastBuildDate>
-    <item>
-      <title>【スターマイカ (2975)】株式会社シェアードリサーチによるアナリストレポート（2025年11月期 第３四半期）公開のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251024/140120251024578718/</link>
-      <description>適時開示：株式会社シェアードリサーチによるアナリストレポート（2025年11月期 第３四半期）公開のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251024/140120251024578718/</guid>
-      <pubDate>Fri, 24 Oct 2025 16:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 15:45:53 +0000</lastBuildDate>
     <item>
       <title>【Ｓｙｎｓ (290A)】行使価額修正条項付新株予約権の大量行使に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251024/140120251024578744/</link>
@@ -6055,6 +6048,13 @@
       <description>適時開示：上場維持基準への適合に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251029/140120251029581839/</guid>
       <pubDate>Wed, 29 Oct 2025 19:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【アクシアル (8255)】INTEGRATED REPORT 2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251030/140120251029580859/</link>
+      <description>適時開示：INTEGRATED REPORT 2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251030/140120251029580859/</guid>
+      <pubDate>Thu, 30 Oct 2025 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
