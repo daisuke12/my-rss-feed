@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Nov 2025 15:20:05 +0000</lastBuildDate>
-    <item>
-      <title>【東亜建 (1885)】北陸支店移転に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251031/140120251030583787/</link>
-      <description>適時開示：北陸支店移転に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251031/140120251030583787/</guid>
-      <pubDate>Fri, 31 Oct 2025 11:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【Ｓａｐｅｅｔ (269A)】カルティクラウド、「マイページ機能」β版をリリース</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251031/140120251031584189/</link>
-      <description>適時開示：カルティクラウド、「マイページ機能」β版をリリース</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251031/140120251031584189/</guid>
-      <pubDate>Fri, 31 Oct 2025 11:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【デンソー (6902)】2026年３月期　第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251031/140120251029581045/</link>
-      <description>適時開示：2026年３月期　第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251031/140120251029581045/</guid>
-      <pubDate>Fri, 31 Oct 2025 11:10:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 15:44:18 +0000</lastBuildDate>
     <item>
       <title>【デンソー (6902)】業績予想の修正に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251031/140120251029581127/</link>
@@ -5768,6 +5747,20 @@
       <description>適時開示：中部電力グループ　環境コミュニケーションブック</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251101/140120251030583025/</guid>
       <pubDate>Sat, 01 Nov 2025 00:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【都築電 (8157)】TSUZUKI REPORT 2025 －躍進－</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251104/140120251031585551/</link>
+      <description>適時開示：TSUZUKI REPORT 2025 －躍進－</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251104/140120251031585551/</guid>
+      <pubDate>Tue, 04 Nov 2025 00:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【京三 (6742)】CORPORATE REPORT 2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251104/140120251031585124/</link>
+      <description>適時開示：CORPORATE REPORT 2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251104/140120251031585124/</guid>
+      <pubDate>Tue, 04 Nov 2025 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
