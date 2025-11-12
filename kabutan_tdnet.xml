@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Nov 2025 15:20:34 +0000</lastBuildDate>
-    <item>
-      <title>【岩谷産 (8088)】剰余金の配当（中間配当）に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251111/140120251104587154/</link>
-      <description>適時開示：剰余金の配当（中間配当）に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251111/140120251104587154/</guid>
-      <pubDate>Tue, 11 Nov 2025 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【岩谷産 (8088)】2026年３月期　第２四半期（中間期）決算短信〔日本基準〕（連結）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251111/140120251110594325/</link>
-      <description>適時開示：2026年３月期　第２四半期（中間期）決算短信〔日本基準〕（連結）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251111/140120251110594325/</guid>
-      <pubDate>Tue, 11 Nov 2025 16:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Nov 2025 15:46:01 +0000</lastBuildDate>
     <item>
       <title>【ルックＨＤ (8029)】2025年12月期 第３四半期決算短信〔日本基準〕（連結）</title>
       <link>https://kabutan.jp/disclosures/pdf/20251111/140120251111596065/</link>
@@ -6377,6 +6363,20 @@
       <description>適時開示：ピーバンドットコム、手持ち部品の保管・管理サービスを開始</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251112/140120251112598901/</guid>
       <pubDate>Wed, 12 Nov 2025 18:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【双葉電 (6986)】コーポレート・レポート2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251113/140120251112598248/</link>
+      <description>適時開示：コーポレート・レポート2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251113/140120251112598248/</guid>
+      <pubDate>Thu, 13 Nov 2025 00:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本製鉄 (5401)】Data Book 2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251113/140120251112597916/</link>
+      <description>適時開示：Data Book 2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251113/140120251112597916/</guid>
+      <pubDate>Thu, 13 Nov 2025 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
