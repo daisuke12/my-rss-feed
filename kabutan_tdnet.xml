@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Nov 2025 10:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 10:48:02 +0000</lastBuildDate>
     <item>
       <title>【十六ＦＧ (7380)】業績予想の修正および期末配当予想の修正（増配）に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251113/140120251112598176/</link>
@@ -1896,13 +1896,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20251113/140120251113599276/</link>
       <description>適時開示：2025年12月期 第３四半期決算短信〔日本基準〕（連結）</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251113/140120251113599276/</guid>
-      <pubDate>Thu, 13 Nov 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日東精 (5957)】株主優待制度の新設に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251113/140120251113599316/</link>
-      <description>適時開示：株主優待制度の新設に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251113/140120251113599316/</guid>
       <pubDate>Thu, 13 Nov 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -7084,6 +7077,13 @@
       <description>適時開示：配当予想の修正に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251113/140120251113501565/</guid>
       <pubDate>Thu, 13 Nov 2025 19:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【コロンビア (146A)】決算説明会動画アーカイブ配信のお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251113/140120251113501659/</link>
+      <description>適時開示：決算説明会動画アーカイブ配信のお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251113/140120251113501659/</guid>
+      <pubDate>Thu, 13 Nov 2025 19:20:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
