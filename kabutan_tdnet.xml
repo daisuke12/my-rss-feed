@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Nov 2025 09:20:36 +0000</lastBuildDate>
-    <item>
-      <title>【フクビ (7871)】連結子会社への一部事業譲渡および連結子会社の商号変更に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251114/140120251114503880/</link>
-      <description>適時開示：連結子会社への一部事業譲渡および連結子会社の商号変更に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251114/140120251114503880/</guid>
-      <pubDate>Fri, 14 Nov 2025 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本創発Ｇ (7814)】2025年12月期　第３四半期決算説明会資料</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251114/140120251113599412/</link>
-      <description>適時開示：2025年12月期　第３四半期決算説明会資料</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251114/140120251113599412/</guid>
-      <pubDate>Fri, 14 Nov 2025 16:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Nov 2025 09:45:00 +0000</lastBuildDate>
     <item>
       <title>【シンシア (7782)】2025年12月期　第3四半期決算短信〔日本基準〕（連結）</title>
       <link>https://kabutan.jp/disclosures/pdf/20251114/140120251027579443/</link>
@@ -6608,6 +6594,13 @@
       <description>適時開示：取締役に対する譲渡制限付株式報酬制度の改定に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251118/140120251118505576/</guid>
       <pubDate>Tue, 18 Nov 2025 18:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【シュッピン (3179)】（数値データ追加）「2026年３月期 第２四半期（中間期）決算短信〔日本基準〕(非連結)」における数値データ（XBRL）について</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251118/140120251118505646/</link>
+      <description>適時開示：（数値データ追加）「2026年３月期 第２四半期（中間期）決算短信〔日本基準〕(非連結)」における数値データ（XBRL）について</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251118/140120251118505646/</guid>
+      <pubDate>Tue, 18 Nov 2025 18:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
