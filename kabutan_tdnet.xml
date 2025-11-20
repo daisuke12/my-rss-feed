@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Nov 2025 23:33:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 23:44:53 +0000</lastBuildDate>
     <item>
       <title>【ベルーナ (9997)】10月度　月次売上高前年同月比（速報値）に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251117/140120251117504678/</link>
@@ -5602,20 +5602,6 @@
       <pubDate>Fri, 21 Nov 2025 08:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【 (455A)】東京証券取引所 TOKYO PRO Market上場に伴う当社決算情報等のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251121/140120251120506471/</link>
-      <description>適時開示：東京証券取引所 TOKYO PRO Market上場に伴う当社決算情報等のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251121/140120251120506471/</guid>
-      <pubDate>Fri, 21 Nov 2025 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【 (455A)】流動性プロバイダー指定のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251121/140120251120506478/</link>
-      <description>適時開示：流動性プロバイダー指定のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251121/140120251120506478/</guid>
-      <pubDate>Fri, 21 Nov 2025 08:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【 (455A)】東京証券取引所TOKYO PRO Marketへの上場のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251121/140120251120506481/</link>
       <description>適時開示：東京証券取引所TOKYO PRO Marketへの上場のお知らせ</description>
@@ -5649,6 +5635,20 @@
       <description>適時開示：基準日まで残り僅か！株主優待最高利回り5.6％以上の「プレミアム優待倶楽部」株主優待制度リニューアルに込めた代表メッセージを新たに公開</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251121/140120251120507236/</guid>
       <pubDate>Fri, 21 Nov 2025 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ブランジスタ (6176)】東京証券取引所スタンダード市場への市場区分変更に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251121/140120251120506659/</link>
+      <description>適時開示：東京証券取引所スタンダード市場への市場区分変更に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251121/140120251120506659/</guid>
+      <pubDate>Fri, 21 Nov 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【タレントＸ (330A)】人事・採用責任者インタビュー「リファラル採用の人的資本価値」 第1弾 長谷工コーポレーションにおける「MyRefer」活用事例を公開</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251121/140120251121507270/</link>
+      <description>適時開示：人事・採用責任者インタビュー「リファラル採用の人的資本価値」 第1弾 長谷工コーポレーションにおける「MyRefer」活用事例を公開</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251121/140120251121507270/</guid>
+      <pubDate>Fri, 21 Nov 2025 08:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
