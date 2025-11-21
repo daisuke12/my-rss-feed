@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Nov 2025 04:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 04:49:00 +0000</lastBuildDate>
     <item>
       <title>【ＫｅｅＰｅｒ (6036)】2026年6月期第1四半期 決算説明会資料</title>
       <link>https://kabutan.jp/disclosures/pdf/20251117/140120251117504865/</link>
@@ -2704,6 +2704,13 @@
       <pubDate>Wed, 19 Nov 2025 16:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>【ＳＯＭＰＯ (8630)】2026年3月期第2四半期（中間期）決算参考資料</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251119/140120251118505540/</link>
+      <description>適時開示：2026年3月期第2四半期（中間期）決算参考資料</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251119/140120251118505540/</guid>
+      <pubDate>Wed, 19 Nov 2025 16:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>【ＳＯＭＰＯ (8630)】通期業績予想（連結）の修正に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251119/140120251118505585/</link>
       <description>適時開示：通期業績予想（連結）の修正に関するお知らせ</description>
@@ -2858,6 +2865,13 @@
       <pubDate>Wed, 19 Nov 2025 16:30:00 +0900</pubDate>
     </item>
     <item>
+      <title>【ｕｎｂａｎｋ (8746)】基準日後株主への議決権付与に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251119/140120251119506202/</link>
+      <description>適時開示：基準日後株主への議決権付与に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251119/140120251119506202/</guid>
+      <pubDate>Wed, 19 Nov 2025 16:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>【ｕｎｂａｎｋ (8746)】第三者割当による第３回新株予約権の募集に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251119/140120251119506216/</link>
       <description>適時開示：第三者割当による第３回新株予約権の募集に関するお知らせ</description>
@@ -2974,13 +2988,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20251119/140120251119506301/</link>
       <description>適時開示：2026年3月期 第２四半期（中間期）決算説明会のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251119/140120251119506301/</guid>
-      <pubDate>Wed, 19 Nov 2025 16:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【イオレ (2334)】2026年３月期第２四半期（中間期）決算説明動画・書き起こし記事公開のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251119/140120251119506302/</link>
-      <description>適時開示：2026年３月期第２四半期（中間期）決算説明動画・書き起こし記事公開のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251119/140120251119506302/</guid>
       <pubDate>Wed, 19 Nov 2025 16:45:00 +0900</pubDate>
     </item>
     <item>
@@ -5691,6 +5698,20 @@
       <description>適時開示：決算説明会Ｑ＆Ａ書き起こし公開およびアーカイブ動画公開のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251121/140120251113500282/</guid>
       <pubDate>Fri, 21 Nov 2025 13:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【東海東京 (8616)】Fiscal year ending March 2026　Management Strategy Briefing</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251121/140120251121507371/</link>
+      <description>適時開示：Fiscal year ending March 2026　Management Strategy Briefing</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251121/140120251121507371/</guid>
+      <pubDate>Fri, 21 Nov 2025 13:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ヒビノ (2469)】2026年3月期第2四半期（中間期）決算説明資料</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251121/140120251121507660/</link>
+      <description>適時開示：2026年3月期第2四半期（中間期）決算説明資料</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251121/140120251121507660/</guid>
+      <pubDate>Fri, 21 Nov 2025 13:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
