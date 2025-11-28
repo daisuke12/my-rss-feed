@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Nov 2025 10:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 10:46:19 +0000</lastBuildDate>
     <item>
       <title>【ウエルシア (3141)】当社株式の上場廃止のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251126/140120251125508789/</link>
@@ -5110,6 +5110,13 @@
       <description>適時開示：株式会社アルガの株式取得（完全子会社化）に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251128/140120251128511326/</guid>
       <pubDate>Fri, 28 Nov 2025 19:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【カウリス (153A)】2025年12月期 第３四半期 決算説明会書き起こし記事及びアーカイブ動画公開のお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251128/140120251128511883/</link>
+      <description>適時開示：2025年12月期 第３四半期 決算説明会書き起こし記事及びアーカイブ動画公開のお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251128/140120251128511883/</guid>
+      <pubDate>Fri, 28 Nov 2025 19:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
