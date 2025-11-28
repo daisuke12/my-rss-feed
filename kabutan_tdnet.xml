@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Nov 2025 04:36:05 +0000</lastBuildDate>
-    <item>
-      <title>【アビスト (6087)】2025年9月期 投資家向け決算説明資料</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251125/140120251125508368/</link>
-      <description>適時開示：2025年9月期 投資家向け決算説明資料</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251125/140120251125508368/</guid>
-      <pubDate>Tue, 25 Nov 2025 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Nov 2025 04:55:09 +0000</lastBuildDate>
     <item>
       <title>【プロディ (5580)】ビジネスフォン課題はカスハラ対策「通話録音」ができないことが最多-クラウドPBXに関する調査結果</title>
       <link>https://kabutan.jp/disclosures/pdf/20251125/140120251125508371/</link>
@@ -1630,13 +1623,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20251126/140120251118505637/</link>
       <description>適時開示：通期業績予想の修正に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251126/140120251118505637/</guid>
-      <pubDate>Wed, 26 Nov 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【リボミック (4591)】キング・アブドラ国際医療研究センターとのMOU終了のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251126/140120251126509188/</link>
-      <description>適時開示：キング・アブドラ国際医療研究センターとのMOU終了のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251126/140120251126509188/</guid>
       <pubDate>Wed, 26 Nov 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -5012,6 +4998,13 @@
       <description>適時開示：ベントール・グリーンオーク株式会社との戦略的パートナーシップに関する基本合意締結のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251128/140120251128511165/</guid>
       <pubDate>Fri, 28 Nov 2025 13:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【データセク (3905)】業績予想の修正に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251128/140120251128511273/</link>
+      <description>適時開示：業績予想の修正に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251128/140120251128511273/</guid>
+      <pubDate>Fri, 28 Nov 2025 13:35:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
