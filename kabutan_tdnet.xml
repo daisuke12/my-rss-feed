@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Nov 2025 15:17:27 +0000</lastBuildDate>
-    <item>
-      <title>【ＵＮＥＸＴ (9418)】支配株主等に関する事項について</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251126/140120251126509311/</link>
-      <description>適時開示：支配株主等に関する事項について</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251126/140120251126509311/</guid>
-      <pubDate>Wed, 26 Nov 2025 16:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Nov 2025 15:33:33 +0000</lastBuildDate>
     <item>
       <title>【ＵＮＥＸＴ (9418)】コンテンツ配信サービス「U-NEXT」の課金ユーザー500万人突破に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251126/140120251126509583/</link>
@@ -5026,6 +5019,13 @@
       <description>適時開示：NOTICE OF THE 78th ANNUAL GENERAL MEETING OF SHAREHOLDERS</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251129/140120251128511428/</guid>
       <pubDate>Sat, 29 Nov 2025 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【三菱電 (6503)】2025 INTEGRATED REPORT</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251201/140120251128511214/</link>
+      <description>適時開示：2025 INTEGRATED REPORT</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251201/140120251128511214/</guid>
+      <pubDate>Mon, 01 Dec 2025 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
