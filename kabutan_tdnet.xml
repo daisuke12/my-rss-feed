@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Dec 2025 10:22:43 +0000</lastBuildDate>
-    <item>
-      <title>【ほくたけ (3055)】役員の異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251128/140120251128511191/</link>
-      <description>適時開示：役員の異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251128/140120251128511191/</guid>
-      <pubDate>Fri, 28 Nov 2025 13:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【アルコニクス (3036)】連結子会社における中国拠点閉鎖に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251128/140120251128510931/</link>
-      <description>適時開示：連結子会社における中国拠点閉鎖に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251128/140120251128510931/</guid>
-      <pubDate>Fri, 28 Nov 2025 13:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Dec 2025 10:50:05 +0000</lastBuildDate>
     <item>
       <title>【ピクセル (2743)】当社株式の監理銘柄（審査中）の指定に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251128/140120251128511348/</link>
@@ -4102,6 +4088,13 @@
       <description>適時開示：法定事後開示書類（合併）（株式会社シーラテクノロジーズ）</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251201/140120251201513090/</guid>
       <pubDate>Mon, 01 Dec 2025 19:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＧＥＮＯＶＡ (9341)】（お知らせ）NOMOCa-AI chatに“自律AI”を搭載</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251201/140120251201513080/</link>
+      <description>適時開示：（お知らせ）NOMOCa-AI chatに“自律AI”を搭載</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251201/140120251201513080/</guid>
+      <pubDate>Mon, 01 Dec 2025 19:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
