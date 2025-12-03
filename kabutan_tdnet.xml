@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 03 Dec 2025 23:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 23:52:00 +0000</lastBuildDate>
     <item>
       <title>【日証金 (8511)】貸借取引貸付金・貸付有価証券等の平均残高のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251201/140120251201512557/</link>
@@ -3320,13 +3320,6 @@
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【ユニネク (3566)】2025年12月期11月度 月次業績速報</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251203/140120251203513955/</link>
-      <description>適時開示：2025年12月期11月度 月次業績速報</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251203/140120251203513955/</guid>
-      <pubDate>Wed, 03 Dec 2025 16:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【フライヤー (323A)】当社代表取締役 大賀康史、ミドル・シニア人材の活躍をテーマとしたパソナマスターズ社との共催ウェビナーに登壇</title>
       <link>https://kabutan.jp/disclosures/pdf/20251203/140120251203514031/</link>
       <description>適時開示：当社代表取締役 大賀康史、ミドル・シニア人材の活躍をテーマとしたパソナマスターズ社との共催ウェビナーに登壇</description>
@@ -3509,32 +3502,46 @@
       <pubDate>Thu, 04 Dec 2025 00:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>【ズーム (6694)】新製品LiveTrak L12next発売のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251203/140120251203514219/</link>
-      <description>適時開示：新製品LiveTrak L12next発売のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251203/140120251203514219/</guid>
-      <pubDate>Wed, 03 Dec 2025 20:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【トーセイ (8923)】トーセイグループ ESGレポート 2024</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251204/140120251202513507/</link>
-      <description>適時開示：トーセイグループ ESGレポート 2024</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251202513507/</guid>
-      <pubDate>Thu, 04 Dec 2025 00:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【トーセイ (8923)】TOSEI GROUP ESG REPORT 2024</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251204/140120251202513509/</link>
-      <description>適時開示：TOSEI GROUP ESG REPORT 2024</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251202513509/</guid>
-      <pubDate>Thu, 04 Dec 2025 00:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【ディップ (2379)】ブランドアンバサダー大谷翔平選手とCEO冨田の特別対談動画  一部先行公開</title>
       <link>https://kabutan.jp/disclosures/pdf/20251204/140120251203514315/</link>
       <description>適時開示：ブランドアンバサダー大谷翔平選手とCEO冨田の特別対談動画  一部先行公開</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251203514315/</guid>
       <pubDate>Thu, 04 Dec 2025 04:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【大和 (8601)】Ambit Wealth Private Limitedへの出資に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251204/140120251203514441/</link>
+      <description>適時開示：Ambit Wealth Private Limitedへの出資に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251203514441/</guid>
+      <pubDate>Thu, 04 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【弁護士ＣＯＭ (6027)】東京証券取引所プライム市場への上場市場区分変更に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251204/140120251120507206/</link>
+      <description>適時開示：東京証券取引所プライム市場への上場市場区分変更に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251120507206/</guid>
+      <pubDate>Thu, 04 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＷＨＤＣ (3823)】ビットコインを活用した株主優待制度の導入に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251204/140120251203513951/</link>
+      <description>適時開示：ビットコインを活用した株主優待制度の導入に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251203513951/</guid>
+      <pubDate>Thu, 04 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ジオコード (7357)】営業支援ツール「ネクストSFA」が「AI履歴登録機能」をリリース、音声やテキストメモからAIが企業特定と履歴登録を自動補正</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251204/140120251201512587/</link>
+      <description>適時開示：営業支援ツール「ネクストSFA」が「AI履歴登録機能」をリリース、音声やテキストメモからAIが企業特定と履歴登録を自動補正</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251201512587/</guid>
+      <pubDate>Thu, 04 Dec 2025 08:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＴＷＯＳＴ (7352)】スマートスケープがMidworksを導入</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251204/140120251203514247/</link>
+      <description>適時開示：スマートスケープがMidworksを導入</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251203514247/</guid>
+      <pubDate>Thu, 04 Dec 2025 08:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
