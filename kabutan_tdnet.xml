@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 03 Dec 2025 15:21:33 +0000</lastBuildDate>
-    <item>
-      <title>【インソース (6200)】2025年11月度KPI（業績指標）進捗状況</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251201/140120251201512516/</link>
-      <description>適時開示：2025年11月度KPI（業績指標）進捗状況</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251201/140120251201512516/</guid>
-      <pubDate>Mon, 01 Dec 2025 12:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【エスリード (8877)】北海道支店設立のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251201/140120251128511507/</link>
-      <description>適時開示：北海道支店設立のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251201/140120251128511507/</guid>
-      <pubDate>Mon, 01 Dec 2025 13:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Dec 2025 15:47:23 +0000</lastBuildDate>
     <item>
       <title>【アクセスＨＤ (7042)】2026年3月期 第2四半期決算説明「ログミーFinance書き起こし」公開のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251201/140120251128511809/</link>
@@ -3591,6 +3577,20 @@
       <description>適時開示：新製品LiveTrak L12next発売のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251203/140120251203514219/</guid>
       <pubDate>Wed, 03 Dec 2025 20:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【トーセイ (8923)】トーセイグループ ESGレポート 2024</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251204/140120251202513507/</link>
+      <description>適時開示：トーセイグループ ESGレポート 2024</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251202513507/</guid>
+      <pubDate>Thu, 04 Dec 2025 00:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【トーセイ (8923)】TOSEI GROUP ESG REPORT 2024</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251204/140120251202513509/</link>
+      <description>適時開示：TOSEI GROUP ESG REPORT 2024</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251202513509/</guid>
+      <pubDate>Thu, 04 Dec 2025 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
