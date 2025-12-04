@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 04 Dec 2025 05:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 05:45:29 +0000</lastBuildDate>
     <item>
       <title>【高島屋 (8233)】2025年11月度 高島屋店頭売上速報</title>
       <link>https://kabutan.jp/disclosures/pdf/20251201/140120251125508937/</link>
@@ -3236,13 +3236,6 @@
       <pubDate>Thu, 04 Dec 2025 08:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>【ＷＨＤＣ (3823)】ビットコインを活用した株主優待制度の導入に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251204/140120251203513951/</link>
-      <description>適時開示：ビットコインを活用した株主優待制度の導入に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251203513951/</guid>
-      <pubDate>Thu, 04 Dec 2025 08:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【ジオコード (7357)】営業支援ツール「ネクストSFA」が「AI履歴登録機能」をリリース、音声やテキストメモからAIが企業特定と履歴登録を自動補正</title>
       <link>https://kabutan.jp/disclosures/pdf/20251204/140120251201512587/</link>
       <description>適時開示：営業支援ツール「ネクストSFA」が「AI履歴登録機能」をリリース、音声やテキストメモからAIが企業特定と履歴登録を自動補正</description>
@@ -3593,13 +3586,6 @@
       <pubDate>Thu, 04 Dec 2025 11:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>【ミガロＨＤ (5535)】ミガログループのDXYZが展開する顔認証IDプラットフォーム「FreeiD」が導入マンション1万戸突破</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251204/140120251204514540/</link>
-      <description>適時開示：ミガログループのDXYZが展開する顔認証IDプラットフォーム「FreeiD」が導入マンション1万戸突破</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251204514540/</guid>
-      <pubDate>Thu, 04 Dec 2025 11:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【ラウンドワン (4680)】第46期（2026年３月期）11月の売上の状況に関するお知らせ（速報）</title>
       <link>https://kabutan.jp/disclosures/pdf/20251204/140120251203514419/</link>
       <description>適時開示：第46期（2026年３月期）11月の売上の状況に関するお知らせ（速報）</description>
@@ -3787,6 +3773,13 @@
       <description>適時開示：「SAPEET 営業AIエージェント」β版提供開始</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251204514573/</guid>
       <pubDate>Thu, 04 Dec 2025 13:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【セルシス (3663)】セルシスの「CLIP STUDIO PAINT」、スペイン最大級のアジア文化のエンタメフェスティバル「Mangafest Sevilla 2025」に協賛</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251204/140120251203514382/</link>
+      <description>適時開示：セルシスの「CLIP STUDIO PAINT」、スペイン最大級のアジア文化のエンタメフェスティバル「Mangafest Sevilla 2025」に協賛</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251204/140120251203514382/</guid>
+      <pubDate>Thu, 04 Dec 2025 14:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
