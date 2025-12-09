@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Dec 2025 23:39:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 23:52:20 +0000</lastBuildDate>
     <item>
       <title>【カーリット (4275)】2026年３月期第２四半期（中間期）決算説明動画配信のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251204/140120251202513416/</link>
@@ -1840,6 +1840,13 @@
       <link>https://kabutan.jp/disclosures/pdf/20251205/140120251205515315/</link>
       <description>適時開示：特別利益（投資有価証券売却益）の計上に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251205/140120251205515315/</guid>
+      <pubDate>Fri, 05 Dec 2025 15:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【大和 (8601)】オンライントレードでの新発不動産セキュリティ・トークンの取扱い開始について</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251205/140120251205515333/</link>
+      <description>適時開示：オンライントレードでの新発不動産セキュリティ・トークンの取扱い開始について</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251205/140120251205515333/</guid>
       <pubDate>Fri, 05 Dec 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -5376,6 +5383,13 @@
       <description>適時開示：FiNANCiE『D2Cの会』、コミュニティ参加者が1週間で1,000名を突破</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251210/140120251209516627/</guid>
       <pubDate>Wed, 10 Dec 2025 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ジオコード (7357)】AIからの“見え方”をまとめて診断「AIO調査サービス」提供開始</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251210/140120251208516153/</link>
+      <description>適時開示：AIからの“見え方”をまとめて診断「AIO調査サービス」提供開始</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251210/140120251208516153/</guid>
+      <pubDate>Wed, 10 Dec 2025 08:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
