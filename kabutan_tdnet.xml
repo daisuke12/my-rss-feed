@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Dec 2025 07:44:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 07:53:45 +0000</lastBuildDate>
     <item>
       <title>【高島屋 (8233)】2025年11月度 高島屋営業報告</title>
       <link>https://kabutan.jp/disclosures/pdf/20251215/140120251208516180/</link>
@@ -5859,6 +5859,13 @@
       <description>適時開示：株式の立会外分売実施に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251218/140120251218521893/</guid>
       <pubDate>Thu, 18 Dec 2025 16:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【アクセルＭ (3624)】iOS・Android向けアプリゲーム『らぶいーず メモリアルコレクション』が本日配信開始！</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251218/140120251218522341/</link>
+      <description>適時開示：iOS・Android向けアプリゲーム『らぶいーず メモリアルコレクション』が本日配信開始！</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251218/140120251218522341/</guid>
+      <pubDate>Thu, 18 Dec 2025 16:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
