@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Dec 2025 15:23:41 +0000</lastBuildDate>
-    <item>
-      <title>【Ｊエスコム (3779)】主要株主の異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251219/140120251219522607/</link>
-      <description>適時開示：主要株主の異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251219/140120251219522607/</guid>
-      <pubDate>Fri, 19 Dec 2025 13:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ディアライフ (3245)】収益不動産（中野富士見町）の取得に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251219/140120251219522736/</link>
-      <description>適時開示：収益不動産（中野富士見町）の取得に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251219/140120251219522736/</guid>
-      <pubDate>Fri, 19 Dec 2025 13:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Dec 2025 15:45:41 +0000</lastBuildDate>
     <item>
       <title>【ナイス (8089)】特定子会社の異動（解散・清算）及びその子会社（孫会社）の解散・清算に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251219/140120251218522219/</link>
@@ -5257,6 +5243,20 @@
       <description>適時開示：当社の連結子会社における家宅捜索に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251223/140120251223525002/</guid>
       <pubDate>Tue, 23 Dec 2025 19:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ネツレン (5976)】NETUREN INTEGRATED REPORT 2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251224/140120251223524992/</link>
+      <description>適時開示：NETUREN INTEGRATED REPORT 2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251224/140120251223524992/</guid>
+      <pubDate>Wed, 24 Dec 2025 00:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【亀田製菓 (2220)】KAMEDA SEIKA Group integrated report 2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251224/140120251223524349/</link>
+      <description>適時開示：KAMEDA SEIKA Group integrated report 2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251224/140120251223524349/</guid>
+      <pubDate>Wed, 24 Dec 2025 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
