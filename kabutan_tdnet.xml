@@ -7,35 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Dec 2025 09:21:47 +0000</lastBuildDate>
-    <item>
-      <title>【ステップ (9795)】支配株主等に関する事項について</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251223/140120251223524430/</link>
-      <description>適時開示：支配株主等に関する事項について</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251223/140120251223524430/</guid>
-      <pubDate>Tue, 23 Dec 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【建設技研 (9621)】代表取締役の異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251223/140120251223524598/</link>
-      <description>適時開示：代表取締役の異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251223/140120251223524598/</guid>
-      <pubDate>Tue, 23 Dec 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【Ｍ＆Ａ総研 (9552)】支配株主等に関する事項について</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251223/140120251223524396/</link>
-      <description>適時開示：支配株主等に関する事項について</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251223/140120251223524396/</guid>
-      <pubDate>Tue, 23 Dec 2025 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【Ｍ＆Ａ総研 (9552)】連結子会社からの配当金受領に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251223/140120251223524807/</link>
-      <description>適時開示：連結子会社からの配当金受領に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251223/140120251223524807/</guid>
-      <pubDate>Tue, 23 Dec 2025 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Dec 2025 09:45:36 +0000</lastBuildDate>
     <item>
       <title>【ＫＤＤＩ (9433)】監査役の辞任に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251223/140120251223524364/</link>
@@ -643,6 +615,20 @@
       <link>https://kabutan.jp/disclosures/pdf/20251223/140120251223524579/</link>
       <description>適時開示：株式交換契約に関する臨時株主総会の承認可決のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251223/140120251223524579/</guid>
+      <pubDate>Tue, 23 Dec 2025 16:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【中発条 (5992)】社外監査役の辞任に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251223/140120251222523960/</link>
+      <description>適時開示：社外監査役の辞任に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251223/140120251222523960/</guid>
+      <pubDate>Tue, 23 Dec 2025 16:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ジオスター (5282)】取締役の逝去および異動に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251223/140120251223524411/</link>
+      <description>適時開示：取締役の逝去および異動に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251223/140120251223524411/</guid>
       <pubDate>Tue, 23 Dec 2025 16:00:00 +0900</pubDate>
     </item>
     <item>
@@ -5145,6 +5131,13 @@
       <description>適時開示：26年1月8日(木)開催の「湘南投資勉強会」主催IRセミナー参加のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251225/140120251225526566/</guid>
       <pubDate>Thu, 25 Dec 2025 18:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【 (362A)】2026年3月期　中間発行者情報</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251225/140120251225526904/</link>
+      <description>適時開示：2026年3月期　中間発行者情報</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251225/140120251225526904/</guid>
+      <pubDate>Thu, 25 Dec 2025 18:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
