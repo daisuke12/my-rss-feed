@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Dec 2025 09:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 09:55:14 +0000</lastBuildDate>
     <item>
       <title>【ＫＤＤＩ (9433)】監査役の辞任に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251223/140120251223524364/</link>
@@ -615,20 +615,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20251223/140120251223524579/</link>
       <description>適時開示：株式交換契約に関する臨時株主総会の承認可決のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251223/140120251223524579/</guid>
-      <pubDate>Tue, 23 Dec 2025 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【中発条 (5992)】社外監査役の辞任に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251223/140120251222523960/</link>
-      <description>適時開示：社外監査役の辞任に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251223/140120251222523960/</guid>
-      <pubDate>Tue, 23 Dec 2025 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ジオスター (5282)】取締役の逝去および異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251223/140120251223524411/</link>
-      <description>適時開示：取締役の逝去および異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251223/140120251223524411/</guid>
       <pubDate>Tue, 23 Dec 2025 16:00:00 +0900</pubDate>
     </item>
     <item>
@@ -5138,6 +5124,20 @@
       <description>適時開示：2026年3月期　中間発行者情報</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251225/140120251225526904/</guid>
       <pubDate>Thu, 25 Dec 2025 18:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【サン電子 (6736)】当社子会社サンデジタルヘルスより、睡眠の質を向上させる製品「myWaves」の日本国内展開および事前予約開始について</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251225/140120251225526780/</link>
+      <description>適時開示：当社子会社サンデジタルヘルスより、睡眠の質を向上させる製品「myWaves」の日本国内展開および事前予約開始について</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251225/140120251225526780/</guid>
+      <pubDate>Thu, 25 Dec 2025 18:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【サン電子 (6736)】Subsidiary Sun Digital Health to Launch “myWaves,” a Sleep Support Product, in Japan and begin accepting pre-order</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251225/140120251225526942/</link>
+      <description>適時開示：Subsidiary Sun Digital Health to Launch “myWaves,” a Sleep Support Product, in Japan and begin accepting pre-order</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251225/140120251225526942/</guid>
+      <pubDate>Thu, 25 Dec 2025 18:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
