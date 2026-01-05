@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Jan 2026 07:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 07:44:56 +0000</lastBuildDate>
     <item>
       <title>【 (490A)】東京証券取引所 TOKYO PRO Marketへの上場のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251226/140120251225526295/</link>
@@ -1196,6 +1196,13 @@
       <link>https://kabutan.jp/disclosures/pdf/20251226/140120251226527191/</link>
       <description>適時開示：【Delayed】Growth Strategy and Medium-Term Plan(FY2026-FY2028)</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251226/140120251226527191/</guid>
+      <pubDate>Fri, 26 Dec 2025 15:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ワクー (4937)】支配株主等に関する事項について</title>
+      <link>https://kabutan.jp/disclosures/pdf/20251226/140120251226527393/</link>
+      <description>適時開示：支配株主等に関する事項について</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251226/140120251226527393/</guid>
       <pubDate>Fri, 26 Dec 2025 15:30:00 +0900</pubDate>
     </item>
     <item>
@@ -4158,6 +4165,48 @@
       <description>適時開示：2025 年12 月の新店および店舗数のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260105/140120260105528906/</guid>
       <pubDate>Mon, 05 Jan 2026 16:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【エヌシーエヌ (7057)】連結子会社の社名変更に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260105/140120260105528913/</link>
+      <description>適時開示：連結子会社の社名変更に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260105/140120260105528913/</guid>
+      <pubDate>Mon, 05 Jan 2026 16:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【アークランズ (9842)】売上高前年同月比推移に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260105/140120260105528907/</link>
+      <description>適時開示：売上高前年同月比推移に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260105/140120260105528907/</guid>
+      <pubDate>Mon, 05 Jan 2026 16:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【イクヨ (7273)】2025年12月　デジタルアセットマイニング事業　月次報告</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260105/140120260105528894/</link>
+      <description>適時開示：2025年12月　デジタルアセットマイニング事業　月次報告</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260105/140120260105528894/</guid>
+      <pubDate>Mon, 05 Jan 2026 16:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ベクトル (6058)】株式の売出し並びに主要株主及び筆頭株主の異動に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260105/140120260105528923/</link>
+      <description>適時開示：株式の売出し並びに主要株主及び筆頭株主の異動に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260105/140120260105528923/</guid>
+      <pubDate>Mon, 05 Jan 2026 16:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ジーエルシー (2970)】法定事後開示書類（会社分割）（ＧＬＣ株式会社）</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260105/140120260105528884/</link>
+      <description>適時開示：法定事後開示書類（会社分割）（ＧＬＣ株式会社）</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260105/140120260105528884/</guid>
+      <pubDate>Mon, 05 Jan 2026 16:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【クオンタムＳ (2338)】連結子会社におけるイーサリアム（ETH）の追加取得に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260105/140120260105528507/</link>
+      <description>適時開示：連結子会社におけるイーサリアム（ETH）の追加取得に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260105/140120260105528507/</guid>
+      <pubDate>Mon, 05 Jan 2026 16:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
