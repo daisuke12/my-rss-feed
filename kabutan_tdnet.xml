@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Jan 2026 08:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 09:00:12 +0000</lastBuildDate>
     <item>
       <title>【 (293A)】福岡証券取引所Fukuoka PRO Market上場に伴う当社決算情報等のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20251226/140120251225526379/</link>
@@ -69,13 +69,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20251226/140120251226527023/</link>
       <description>適時開示：SBIアセットマネジメントの運用する公募投信の純資産は5兆円突破 1兆円から3年半で5倍に、SBI岡三・レオス含む3社で8兆円、業界8位へ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251226/140120251226527023/</guid>
-      <pubDate>Fri, 26 Dec 2025 09:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ジェリビンズ (3070)】着用による血行促進を目的とした管理医療機器リカバリーウェア「JELLY BEANS STYLE」誕生</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251226/140120251226525995/</link>
-      <description>適時開示：着用による血行促進を目的とした管理医療機器リカバリーウェア「JELLY BEANS STYLE」誕生</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251226/140120251226525995/</guid>
       <pubDate>Fri, 26 Dec 2025 09:00:00 +0900</pubDate>
     </item>
     <item>
@@ -224,20 +217,6 @@
       <description>適時開示：「BRAND OFF SHINSAIBASHI ANNEX」出店のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251226/140120251226527071/</guid>
       <pubDate>Fri, 26 Dec 2025 11:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ウィルスマ (175A)】Will Smart、大阪・関西万博の輸送運営支援で博覧会協会より感謝状</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251226/140120251226527133/</link>
-      <description>適時開示：Will Smart、大阪・関西万博の輸送運営支援で博覧会協会より感謝状</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251226/140120251226527133/</guid>
-      <pubDate>Fri, 26 Dec 2025 11:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ランディクス (2981)】ランディックス25周年記念優待は本日が権利獲得期限</title>
-      <link>https://kabutan.jp/disclosures/pdf/20251226/140120251226527210/</link>
-      <description>適時開示：ランディックス25周年記念優待は本日が権利獲得期限</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20251226/140120251226527210/</guid>
-      <pubDate>Fri, 26 Dec 2025 11:03:00 +0900</pubDate>
     </item>
     <item>
       <title>【ウィルスマ (175A)】Will Smart、大阪・関西万博の輸送運営支援で博覧会協会より感謝状</title>
@@ -4151,6 +4130,20 @@
       <description>適時開示：第三者割当により発行された行使価額修正条項付第１回新株予約権の大量行使に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260105/140120260105528870/</guid>
       <pubDate>Mon, 05 Jan 2026 17:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【進学会ＨＤ (9760)】連結子会社の保有する有価証券の評価損発生に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260105/140120260105528860/</link>
+      <description>適時開示：連結子会社の保有する有価証券の評価損発生に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260105/140120260105528860/</guid>
+      <pubDate>Mon, 05 Jan 2026 17:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＲＯＸＸ (241A)】資本金及び資本準備金の額の減少並びに剰余金の処分に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260105/140120260105528899/</link>
+      <description>適時開示：資本金及び資本準備金の額の減少並びに剰余金の処分に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260105/140120260105528899/</guid>
+      <pubDate>Mon, 05 Jan 2026 17:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
