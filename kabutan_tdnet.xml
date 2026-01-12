@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 12 Jan 2026 22:55:15 +0000</lastBuildDate>
-    <item>
-      <title>【バイク王 (3377)】特別損失の計上および業績予想の修正に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260106/140120251226527544/</link>
-      <description>適時開示：特別損失の計上および業績予想の修正に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260106/140120251226527544/</guid>
-      <pubDate>Tue, 06 Jan 2026 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 23:16:29 +0000</lastBuildDate>
     <item>
       <title>【セリア (2782)】2025年12月度の月次売上高前年比及び店舗数</title>
       <link>https://kabutan.jp/disclosures/pdf/20260106/140120260106529316/</link>
@@ -5061,6 +5054,13 @@
       <description>適時開示：議決権行使助言会社ISS社による臨時株主総会議案に対する賛否推奨レポートについて</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260110/140120260109531865/</guid>
       <pubDate>Sat, 10 Jan 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ライトオン (7445)】交付書面非記載事項</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260113/140120260112532002/</link>
+      <description>適時開示：交付書面非記載事項</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260113/140120260112532002/</guid>
+      <pubDate>Tue, 13 Jan 2026 08:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
