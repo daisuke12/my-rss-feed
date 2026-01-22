@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 15:28:54 +0000</lastBuildDate>
-    <item>
-      <title>【ヘッドウォ (4011)】個人投資家向けIR セミナー「Growth IR Seminar」登壇のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260115/140120260115534482/</link>
-      <description>適時開示：個人投資家向けIR セミナー「Growth IR Seminar」登壇のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260115/140120260115534482/</guid>
-      <pubDate>Thu, 15 Jan 2026 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ポールＨＤ (3657)】会社説明会の開催に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260115/140120260107529954/</link>
-      <description>適時開示：会社説明会の開催に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260115/140120260107529954/</guid>
-      <pubDate>Thu, 15 Jan 2026 16:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jan 2026 15:56:58 +0000</lastBuildDate>
     <item>
       <title>【 (329A)】資金の借入れに関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20260115/140120260114534131/</link>
@@ -5859,6 +5845,20 @@
       <description>適時開示：代表取締役の異動（解職）及び社長交代に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260122/140120260122537291/</guid>
       <pubDate>Thu, 22 Jan 2026 19:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＭＳ＆ＡＤ (8725)】サステナビリティレポート2025（part1）</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260123/140120260122537320/</link>
+      <description>適時開示：サステナビリティレポート2025（part1）</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260123/140120260122537320/</guid>
+      <pubDate>Fri, 23 Jan 2026 00:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＭＳ＆ＡＤ (8725)】サステナビリティレポート2025（part2）</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260123/140120260122537342/</link>
+      <description>適時開示：サステナビリティレポート2025（part2）</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260123/140120260122537342/</guid>
+      <pubDate>Fri, 23 Jan 2026 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
