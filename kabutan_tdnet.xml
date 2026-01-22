@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 10:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 10:37:36 +0000</lastBuildDate>
     <item>
       <title>【ヘッドウォ (4011)】個人投資家向けIR セミナー「Growth IR Seminar」登壇のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20260115/140120260115534482/</link>
@@ -3313,13 +3313,6 @@
       <pubDate>Tue, 20 Jan 2026 15:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>【第一興商 (7458)】監査役の逝去および補欠監査役の監査役就任に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260120/140120260120536101/</link>
-      <description>適時開示：監査役の逝去および補欠監査役の監査役就任に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260120/140120260120536101/</guid>
-      <pubDate>Tue, 20 Jan 2026 15:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【プレミアＧ (7199)】格付取得に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20260120/140120260119535483/</link>
       <description>適時開示：格付取得に関するお知らせ</description>
@@ -5852,6 +5845,20 @@
       <description>適時開示：ビットコイン及びゴールドの追加購入に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260122/140120260122537191/</guid>
       <pubDate>Thu, 22 Jan 2026 18:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【プレミアムＷ (2588)】第三者割当による種類株式の発行条件等の決定に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260122/140120260121536791/</link>
+      <description>適時開示：第三者割当による種類株式の発行条件等の決定に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260122/140120260121536791/</guid>
+      <pubDate>Thu, 22 Jan 2026 19:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【イメージ情報 (3803)】代表取締役の異動（解職）及び社長交代に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260122/140120260122537291/</link>
+      <description>適時開示：代表取締役の異動（解職）及び社長交代に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260122/140120260122537291/</guid>
+      <pubDate>Thu, 22 Jan 2026 19:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
