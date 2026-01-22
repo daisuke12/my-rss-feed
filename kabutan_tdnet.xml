@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 08:28:49 +0000</lastBuildDate>
-    <item>
-      <title>【Ｈ２Ｏリテイ (8242)】2025年12月度営業概況</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260115/140120260115534341/</link>
-      <description>適時開示：2025年12月度営業概況</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260115/140120260115534341/</guid>
-      <pubDate>Thu, 15 Jan 2026 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【Ｈ２Ｏリテイ (8242)】2025年業績推移</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260115/140120260115534347/</link>
-      <description>適時開示：2025年業績推移</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260115/140120260115534347/</guid>
-      <pubDate>Thu, 15 Jan 2026 16:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jan 2026 09:00:04 +0000</lastBuildDate>
     <item>
       <title>【三井物 (8031)】役員人事（代表取締役の異動）に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20260115/140120260115534300/</link>
@@ -5880,6 +5866,20 @@
       <description>適時開示：当社株式の貸借銘柄選定に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260122/140120260122537253/</guid>
       <pubDate>Thu, 22 Jan 2026 17:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【メンバーズ (2130)】連結決算（IFRS）への移行に伴う連結業績予想の公表に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260122/140120260119535439/</link>
+      <description>適時開示：連結決算（IFRS）への移行に伴う連結業績予想の公表に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260122/140120260119535439/</guid>
+      <pubDate>Thu, 22 Jan 2026 17:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【メンバーズ (2130)】「内部統制システム整備の基本方針」一部改定に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260122/140120260120536164/</link>
+      <description>適時開示：「内部統制システム整備の基本方針」一部改定に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260122/140120260120536164/</guid>
+      <pubDate>Thu, 22 Jan 2026 17:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
