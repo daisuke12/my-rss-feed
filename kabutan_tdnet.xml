@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Jan 2026 09:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 10:34:48 +0000</lastBuildDate>
     <item>
       <title>【ブラインド (7989)】役員人事のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20260127/140120260126538830/</link>
@@ -5803,6 +5803,13 @@
       <description>適時開示：訴訟の判決に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260129/140120260128540797/</guid>
       <pubDate>Thu, 29 Jan 2026 18:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＫＬａｂ (3656)】『ジョジョの奇妙な冒険』アニメーションシリーズ新作モバイルオンラインゲームのタイトルが決定、クローズドβテストを実施中</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260129/140120260129542280/</link>
+      <description>適時開示：『ジョジョの奇妙な冒険』アニメーションシリーズ新作モバイルオンラインゲームのタイトルが決定、クローズドβテストを実施中</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260129/140120260129542280/</guid>
+      <pubDate>Thu, 29 Jan 2026 19:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
