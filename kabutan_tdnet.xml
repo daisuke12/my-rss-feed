@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Jan 2026 23:38:07 +0000</lastBuildDate>
-    <item>
-      <title>【イズミ (8273)】組織変更に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260127/140120260109531793/</link>
-      <description>適時開示：組織変更に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260127/140120260109531793/</guid>
-      <pubDate>Tue, 27 Jan 2026 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【コメリ (8218)】2026年３月期 第３四半期決算短信〔日本基準〕(連結)</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260127/140120260127539294/</link>
-      <description>適時開示：2026年３月期 第３四半期決算短信〔日本基準〕(連結)</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260127/140120260127539294/</guid>
-      <pubDate>Tue, 27 Jan 2026 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【コメリ (8218)】2026年３月期 第３四半期決算補足資料</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260127/140120260127539300/</link>
-      <description>適時開示：2026年３月期 第３四半期決算補足資料</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260127/140120260127539300/</guid>
-      <pubDate>Tue, 27 Jan 2026 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jan 2026 23:59:37 +0000</lastBuildDate>
     <item>
       <title>【コメリ (8218)】2026年３月期 第３四半期決算説明資料</title>
       <link>https://kabutan.jp/disclosures/pdf/20260127/140120260127539305/</link>
@@ -784,6 +763,13 @@
       <description>適時開示：株主総会の同日開催「JAPAN BITCOIN FUTURE FORUM」のイベントに関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260127/140120260127539329/</guid>
       <pubDate>Tue, 27 Jan 2026 18:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ケイファーマ (4896)】個人投資家向けIRセミナー登壇のお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260128/140120260127539454/</link>
+      <description>適時開示：個人投資家向けIRセミナー登壇のお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260128/140120260127539454/</guid>
+      <pubDate>Wed, 28 Jan 2026 08:00:00 +0900</pubDate>
     </item>
     <item>
       <title>【ケイファーマ (4896)】個人投資家向けIRセミナー登壇のお知らせ</title>
@@ -5726,6 +5712,13 @@
       <description>適時開示：四日市工場における合弁会社の契約期間延長について</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260130/140120260130542429/</guid>
       <pubDate>Fri, 30 Jan 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【エクサＷｉｚ (4259)】ExaWizards and Dirbato Announce Business Alliance to Accelerate Corporate AX and AI Agent Utilization</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260130/140120260129541626/</link>
+      <description>適時開示：ExaWizards and Dirbato Announce Business Alliance to Accelerate Corporate AX and AI Agent Utilization</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260130/140120260129541626/</guid>
+      <pubDate>Fri, 30 Jan 2026 08:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
