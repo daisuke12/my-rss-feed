@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Feb 2026 15:26:34 +0000</lastBuildDate>
-    <item>
-      <title>【ＴＰＲ (6463)】役員等の異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260226/140120260226569985/</link>
-      <description>適時開示：役員等の異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260226/140120260226569985/</guid>
-      <pubDate>Thu, 26 Feb 2026 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【栗田工 (6370)】代表執行役の異動および執行役人事に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260226/140120260226569984/</link>
-      <description>適時開示：代表執行役の異動および執行役人事に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260226/140120260226569984/</guid>
-      <pubDate>Thu, 26 Feb 2026 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Feb 2026 16:00:43 +0000</lastBuildDate>
     <item>
       <title>【メタリアル (6182)】企業調査レポート（アナリストレポート）公開のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20260226/140120260226569930/</link>
@@ -5390,6 +5376,13 @@
       <description>適時開示：第三者委員会の調査報告書受領に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260227/140120260227572364/</guid>
       <pubDate>Fri, 27 Feb 2026 23:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【東映 (9605)】[Delayed] TOEI GROUP INTEGRATED REPORT 2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260228/140120260226569413/</link>
+      <description>適時開示：[Delayed] TOEI GROUP INTEGRATED REPORT 2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260228/140120260226569413/</guid>
+      <pubDate>Sat, 28 Feb 2026 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
