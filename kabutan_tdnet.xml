@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Mar 2026 12:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 13:19:51 +0000</lastBuildDate>
     <item>
       <title>【ココルポート (9346)】事業所のプレオープンのお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20260302/140120260225569327/</link>
@@ -3437,6 +3437,13 @@
       <description>適時開示：TCG2509株式会社による当社株式に対する公開買付けの結果並びに親会社、主要株主及び主要株主である筆頭株主の異動に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260303/140120260303574822/</guid>
       <pubDate>Tue, 03 Mar 2026 20:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【協和キリン (4151)】ロカチンリマブに関する臨床試験の中止のお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260303/140120260303574795/</link>
+      <description>適時開示：ロカチンリマブに関する臨床試験の中止のお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260303/140120260303574795/</guid>
+      <pubDate>Tue, 03 Mar 2026 22:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
