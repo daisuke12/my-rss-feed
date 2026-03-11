@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Mar 2026 23:30:10 +0000</lastBuildDate>
-    <item>
-      <title>【東邦銀 (8346)】代表取締役およびその他役員の異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260306/140120260305576818/</link>
-      <description>適時開示：代表取締役およびその他役員の異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260306/140120260305576818/</guid>
-      <pubDate>Fri, 06 Mar 2026 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【三井住友ＦＧ (8316)】代表執行役の異動について</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260306/140120260306577298/</link>
-      <description>適時開示：代表執行役の異動について</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260306/140120260306577298/</guid>
-      <pubDate>Fri, 06 Mar 2026 16:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 23:52:24 +0000</lastBuildDate>
     <item>
       <title>【マルイチ (8228)】株式の立会外分売に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20260306/140120260306577067/</link>
@@ -5103,6 +5089,13 @@
       <description>適時開示：議決権行使助言会社ISS社の推奨レポートに関する当社取締役会の見解について</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260312/140120260311580182/</guid>
       <pubDate>Thu, 12 Mar 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【タレントＸ (330A)】あいおいニッセイ同和損害保険、TalentXの採用ブランディングサービス「MyBrand」を導入</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260312/140120260311580162/</link>
+      <description>適時開示：あいおいニッセイ同和損害保険、TalentXの採用ブランディングサービス「MyBrand」を導入</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260312/140120260311580162/</guid>
+      <pubDate>Thu, 12 Mar 2026 08:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
