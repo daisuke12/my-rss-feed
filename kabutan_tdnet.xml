@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Mar 2026 23:30:47 +0000</lastBuildDate>
-    <item>
-      <title>【ラクス (3923)】2026年3月期月次売上高（２月度）のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260313/140120260313580720/</link>
-      <description>適時開示：2026年3月期月次売上高（２月度）のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260313/140120260313580720/</guid>
-      <pubDate>Fri, 13 Mar 2026 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 23:58:04 +0000</lastBuildDate>
     <item>
       <title>【ＰＲＴＩＭＥ (3922)】2025年度通期決算説明会に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20260313/140120260313581586/</link>
@@ -1164,13 +1157,6 @@
       <pubDate>Fri, 13 Mar 2026 17:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【ａｂｃ (8783)】第三者割当に係る株式譲渡報告書（新株式）</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260313/140120260313581906/</link>
-      <description>適時開示：第三者割当に係る株式譲渡報告書（新株式）</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260313/140120260313581906/</guid>
-      <pubDate>Fri, 13 Mar 2026 17:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>【ＩＩＦ (6545)】完全子会社間の吸収合併に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20260313/140120260312580995/</link>
       <description>適時開示：完全子会社間の吸収合併に関するお知らせ</description>
@@ -1371,20 +1357,6 @@
       <link>https://kabutan.jp/disclosures/pdf/20260313/140120260313581959/</link>
       <description>適時開示：ログミーファイナンス主催個人投資家向けIRセミナー登壇のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260313/140120260313581959/</guid>
-      <pubDate>Fri, 13 Mar 2026 17:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ＦＥＡＳＹ (212A)】（追加）「2026年10月期　第１四半期　決算説明資料」の一部追加について</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260313/140120260313581949/</link>
-      <description>適時開示：（追加）「2026年10月期　第１四半期　決算説明資料」の一部追加について</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260313/140120260313581949/</guid>
-      <pubDate>Fri, 13 Mar 2026 17:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ジンジブ (142A)】執行役員の任命および辞任に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260313/140120260313581917/</link>
-      <description>適時開示：執行役員の任命および辞任に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260313/140120260313581917/</guid>
       <pubDate>Fri, 13 Mar 2026 17:30:00 +0900</pubDate>
     </item>
     <item>
@@ -6027,6 +5999,27 @@
       <description>適時開示：Arent、海外現地法人設立後初となる海外展示会 「BIM World Paris 2026」への出展およびセミナー登壇のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260318/140120260316582563/</guid>
       <pubDate>Wed, 18 Mar 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【インバＰＦ (5587)】（開示事項の中止）事業譲受に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260318/140120260317583744/</link>
+      <description>適時開示：（開示事項の中止）事業譲受に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260318/140120260317583744/</guid>
+      <pubDate>Wed, 18 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ダイナマップ (336A)】ダイナミックマッププラットフォーム、10年の挑戦、CEOインタビューコラムを公開～自動運転とAIを支える高精度3次元データ、国内500kmから世界180万kmへ～</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260318/140120260317583974/</link>
+      <description>適時開示：ダイナミックマッププラットフォーム、10年の挑戦、CEOインタビューコラムを公開～自動運転とAIを支える高精度3次元データ、国内500kmから世界180万kmへ～</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260318/140120260317583974/</guid>
+      <pubDate>Wed, 18 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ジオコード (7357)】東日本大震災から16年連続で寄付を実施、累計寄付額は1,943万円を突破</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260318/140120260317583905/</link>
+      <description>適時開示：東日本大震災から16年連続で寄付を実施、累計寄付額は1,943万円を突破</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260318/140120260317583905/</guid>
+      <pubDate>Wed, 18 Mar 2026 08:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
