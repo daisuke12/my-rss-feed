@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Mar 2026 23:05:43 +0000</lastBuildDate>
-    <item>
-      <title>【山一電機 (6941)】役員の異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260319/140120260319585196/</link>
-      <description>適時開示：役員の異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260319/140120260319585196/</guid>
-      <pubDate>Thu, 19 Mar 2026 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【新電元 (6844)】業績予想および配当予想の修正（増配）に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260319/140120260318584610/</link>
-      <description>適時開示：業績予想および配当予想の修正（増配）に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260319/140120260318584610/</guid>
-      <pubDate>Thu, 19 Mar 2026 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ニューテック (6734)】当社株式の上場廃止のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260319/140120260318584174/</link>
-      <description>適時開示：当社株式の上場廃止のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260319/140120260318584174/</guid>
-      <pubDate>Thu, 19 Mar 2026 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 23:48:06 +0000</lastBuildDate>
     <item>
       <title>【ＷＳＣＯＰＥ (6619)】2026年１月期決算短信〔日本基準〕(連結)</title>
       <link>https://kabutan.jp/disclosures/pdf/20260319/140120260319585267/</link>
@@ -5103,6 +5082,48 @@
       <description>適時開示：資金の借入に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260325/140120260324588101/</guid>
       <pubDate>Wed, 25 Mar 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【Ｆ－ブレイン (3927)】Eye“247” Safety Zone USAV6／FSAV6販売開始</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260325/140120260324587887/</link>
+      <description>適時開示：Eye“247” Safety Zone USAV6／FSAV6販売開始</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260325/140120260324587887/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ダイナマップ (336A)】早稲田大学とダイナミックマッププラットフォームが仮想環境上の道路ネットワークの再現性向上に向けた共同研究契約を締結</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260325/140120260325588123/</link>
+      <description>適時開示：早稲田大学とダイナミックマッププラットフォームが仮想環境上の道路ネットワークの再現性向上に向けた共同研究契約を締結</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260325/140120260325588123/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【Ｓｙｎｓ (290A)】宇宙戦略基金（第二期）採択に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260325/140120260324588109/</link>
+      <description>適時開示：宇宙戦略基金（第二期）採択に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260325/140120260324588109/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【新日本科学 (2395)】新日本科学の「粉体噴射型IgA 産生誘導経鼻ワクチンシステムの開発」がAMEDの継続支援事業に採択されました</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260325/140120260320585936/</link>
+      <description>適時開示：新日本科学の「粉体噴射型IgA 産生誘導経鼻ワクチンシステムの開発」がAMEDの継続支援事業に採択されました</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260325/140120260320585936/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【築地魚 (8039)】特別利益の計上に関するお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260325/140120260325588141/</link>
+      <description>適時開示：特別利益の計上に関するお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260325/140120260325588141/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【タレントＸ (330A)】TalentX、採用を「掛け捨て」から「経営資産」へと変革。AIネイティブATS「MyTalent Hire」提供開始</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260325/140120260325588133/</link>
+      <description>適時開示：TalentX、採用を「掛け捨て」から「経営資産」へと変革。AIネイティブATS「MyTalent Hire」提供開始</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260325/140120260325588133/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
