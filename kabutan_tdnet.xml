@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Mar 2026 10:11:20 +0000</lastBuildDate>
-    <item>
-      <title>【アニコムＨＤ (8715)】2026年２月度 月次経営パラメータに関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260319/140120260318584304/</link>
-      <description>適時開示：2026年２月度 月次経営パラメータに関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260319/140120260318584304/</guid>
-      <pubDate>Thu, 19 Mar 2026 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 11:11:04 +0000</lastBuildDate>
     <item>
       <title>【アニコムＨＤ (8715)】Monthly Management Parameters, February 2026</title>
       <link>https://kabutan.jp/disclosures/pdf/20260319/140120260318584308/</link>
@@ -5124,6 +5117,13 @@
       <description>適時開示：MBOの実施の一環としてのMP-2605株式会社による株式会社ソラスト（証券コード：6197）の普通株式に対する公開買付けの開始に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260324/140120260324587835/</guid>
       <pubDate>Tue, 24 Mar 2026 19:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【大東建 (1878)】持分法適用関連会社（株式会社ソラスト）株式に関する契約締結のお知らせ</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260324/140120260323586715/</link>
+      <description>適時開示：持分法適用関連会社（株式会社ソラスト）株式に関する契約締結のお知らせ</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260324/140120260323586715/</guid>
+      <pubDate>Tue, 24 Mar 2026 19:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
