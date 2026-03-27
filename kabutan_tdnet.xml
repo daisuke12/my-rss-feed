@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Mar 2026 15:11:15 +0000</lastBuildDate>
-    <item>
-      <title>【ヨシコン (5280)】組織変更及び人事に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260326/140120260326589975/</link>
-      <description>適時開示：組織変更及び人事に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260326/140120260326589975/</guid>
-      <pubDate>Thu, 26 Mar 2026 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本オーエー (5241)】役員人事、組織変更及び取締役の異動に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260326/140120260325588098/</link>
-      <description>適時開示：役員人事、組織変更及び取締役の異動に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260326/140120260325588098/</guid>
-      <pubDate>Thu, 26 Mar 2026 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本オーエー (5241)】支配株主等に関する事項について</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260326/140120260325588113/</link>
-      <description>適時開示：支配株主等に関する事項について</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260326/140120260325588113/</guid>
-      <pubDate>Thu, 26 Mar 2026 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Mar 2026 16:07:55 +0000</lastBuildDate>
     <item>
       <title>【日本オーエー (5241)】公益財団法人財務会計基準機構への加入状況及び加入に関する考え方等に関するお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20260326/140120260325588115/</link>
@@ -5012,6 +4991,13 @@
       <description>適時開示：2026年４月期第３四半期ログミー公開のお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260327/140120260327592042/</guid>
       <pubDate>Fri, 27 Mar 2026 20:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＲＳテクノ (3445)】アニュアルレポート2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260328/140120260327591250/</link>
+      <description>適時開示：アニュアルレポート2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260328/140120260327591250/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
