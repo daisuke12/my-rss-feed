@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Apr 2026 09:20:55 +0000</lastBuildDate>
-    <item>
-      <title>【フツパー (478A)】個人投資家向け会社説明会「ログミーFinance書き起こし」公開のお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260403/140120260403597864/</link>
-      <description>適時開示：個人投資家向け会社説明会「ログミーFinance書き起こし」公開のお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260403/140120260403597864/</guid>
-      <pubDate>Fri, 03 Apr 2026 09:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 10:38:04 +0000</lastBuildDate>
     <item>
       <title>【ｉＦ日経Ｗベ (1366)】約款 2026/04/04</title>
       <link>https://kabutan.jp/disclosures/pdf/20260403/140120260403597908/</link>
@@ -5467,6 +5460,20 @@
       <description>適時開示：投資家のみなさまからのご質問と当社見解（2026年4月）</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260408/140120260408500397/</guid>
       <pubDate>Wed, 08 Apr 2026 18:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【スローガン (9253)】2026年2月期 通期決算説明会レポート（質疑応答）</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260408/140120260408500313/</link>
+      <description>適時開示：2026年2月期 通期決算説明会レポート（質疑応答）</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260408/140120260408500313/</guid>
+      <pubDate>Wed, 08 Apr 2026 18:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【スローガン (9253)】2026年2月期 通期決算説明会レポート</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260408/140120260408500322/</link>
+      <description>適時開示：2026年2月期 通期決算説明会レポート</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260408/140120260408500322/</guid>
+      <pubDate>Wed, 08 Apr 2026 18:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
