@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Apr 2026 15:07:19 +0000</lastBuildDate>
-    <item>
-      <title>【今村証券 (7175)】今村証券採用情報サイトリニューアルに関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260406/140120260406598552/</link>
-      <description>適時開示：今村証券採用情報サイトリニューアルに関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260406/140120260406598552/</guid>
-      <pubDate>Mon, 06 Apr 2026 10:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 16:44:01 +0000</lastBuildDate>
     <item>
       <title>【識学 (7049)】2027年2月期プラットフォームサービス月次売上高(3月度)のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20260406/140120260406598601/</link>
@@ -5908,6 +5901,13 @@
       <description>適時開示：2026年２月期 決算説明会資料</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260409/140120260409501156/</guid>
       <pubDate>Thu, 09 Apr 2026 18:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【カナモト (9678)】INTEGRATED REPORT 2026</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260410/140120260409500705/</link>
+      <description>適時開示：INTEGRATED REPORT 2026</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260410/140120260409500705/</guid>
+      <pubDate>Fri, 10 Apr 2026 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
