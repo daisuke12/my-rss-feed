@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Apr 2026 14:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 15:50:52 +0000</lastBuildDate>
     <item>
       <title>【ｉＦ日経Ｗブ (1365)】約款 2026/04/17</title>
       <link>https://kabutan.jp/disclosures/pdf/20260417/140120260417505779/</link>
@@ -6202,6 +6202,13 @@
       <description>適時開示：新任社外取締役候補者の選任に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260422/140120260421507661/</guid>
       <pubDate>Wed, 22 Apr 2026 20:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ＣＩＪ (4826)】[Delayed]CIJ REPORT 2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260423/140120260422508523/</link>
+      <description>適時開示：[Delayed]CIJ REPORT 2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260423/140120260422508523/</guid>
+      <pubDate>Thu, 23 Apr 2026 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
