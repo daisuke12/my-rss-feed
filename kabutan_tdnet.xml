@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 13 May 2026 13:30:10 +0000</lastBuildDate>
-    <item>
-      <title>【創健社 (7413)】通期業績予想の修正に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260513/140120260509521104/</link>
-      <description>適時開示：通期業績予想の修正に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260513/140120260509521104/</guid>
-      <pubDate>Wed, 13 May 2026 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 16:03:26 +0000</lastBuildDate>
     <item>
       <title>【あいちＦＧ (7389)】株式会社あいちフィナンシャルグループと株式会社三十三フィナンシャルグループの経営統合に関する基本合意について</title>
       <link>https://kabutan.jp/disclosures/pdf/20260513/140120260513527607/</link>
@@ -6349,6 +6342,13 @@
       <description>適時開示：剰余金の配当（増配）に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260513/140120260513531507/</guid>
       <pubDate>Wed, 13 May 2026 20:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【関電化 (4047)】INTEGRATED REPORT 2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260514/140120260513530678/</link>
+      <description>適時開示：INTEGRATED REPORT 2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260514/140120260513530678/</guid>
+      <pubDate>Thu, 14 May 2026 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
