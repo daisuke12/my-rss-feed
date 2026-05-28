@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 28 May 2026 12:07:52 +0000</lastBuildDate>
-    <item>
-      <title>【邦チタ (5727)】当社株式の上場廃止に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260527/140120260527550609/</link>
-      <description>適時開示：当社株式の上場廃止に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260527/140120260527550609/</guid>
-      <pubDate>Wed, 27 May 2026 15:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ＧＭＳ (544A)】子会社の保有する当社株式の取得に関するお知らせ</title>
-      <link>https://kabutan.jp/disclosures/pdf/20260527/140120260525547303/</link>
-      <description>適時開示：子会社の保有する当社株式の取得に関するお知らせ</description>
-      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260527/140120260525547303/</guid>
-      <pubDate>Wed, 27 May 2026 15:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 16:34:51 +0000</lastBuildDate>
     <item>
       <title>【モイ (5031)】2027年１月期第１四半期オンライン決算説明会のお知らせ</title>
       <link>https://kabutan.jp/disclosures/pdf/20260527/140120260527550062/</link>
@@ -3416,6 +3402,34 @@
       <description>適時開示：特別利益及び特別損失の計上に関するお知らせ</description>
       <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260528/140120260526548806/</guid>
       <pubDate>Thu, 28 May 2026 19:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ユニソルＨＤ (7128)】INTEGRATED REPORT 2025</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260529/140120260528552808/</link>
+      <description>適時開示：INTEGRATED REPORT 2025</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260529/140120260528552808/</guid>
+      <pubDate>Fri, 29 May 2026 00:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【マルマエ (6264)】マルマエグループレポート2026</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260529/140120260526547608/</link>
+      <description>適時開示：マルマエグループレポート2026</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260529/140120260526547608/</guid>
+      <pubDate>Fri, 29 May 2026 00:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【綿半ＨＤ (3199)】綿半レポート（2026年３月期）</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260529/140120260528552118/</link>
+      <description>適時開示：綿半レポート（2026年３月期）</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260529/140120260528552118/</guid>
+      <pubDate>Fri, 29 May 2026 00:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ネクステージ (3186)】INTEGRATED REPORT 2026</title>
+      <link>https://kabutan.jp/disclosures/pdf/20260529/140120260512525887/</link>
+      <description>適時開示：INTEGRATED REPORT 2026</description>
+      <guid isPermaLink="true">https://kabutan.jp/disclosures/pdf/20260529/140120260512525887/</guid>
+      <pubDate>Fri, 29 May 2026 00:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
