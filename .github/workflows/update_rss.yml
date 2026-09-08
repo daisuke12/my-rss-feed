@@ -1,19 +1,18 @@
 name: Update Kabutan RSS Feed
 on:
   schedule:
-    # 15分ごとに実行（UTC時刻基準）
     - cron: '*/15 * * * *'
-  workflow_dispatch: # 手動実行も可能にする
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 書き込み権限を許可
+      contents: write
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v3
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v4
       with:
         python-version: '3.x'
     - name: Install dependencies
